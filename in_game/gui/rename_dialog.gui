@@ -83,7 +83,7 @@ window = {
 
                     # MODIFICATION: Debug Text
                     # text_single = {
-                    #     raw_text = "DEBUG: 'PLAYER: [GetPlayer.GetTag] TARGET: [RenameDialog.GetCountry.GetDiplomacy.GetTopOverlord.IsValid]' TRIBUTARY: [EqualTo_string(RenameDialog.GetCountry.GetDiplomacy.GetSubjectType.GetNameKey, 'tributary')] ISEQUAL: [And3(RenameDialog.GetCountry.GetDiplomacy.GetTopOverlord.IsValid, EqualTo_string(GetPlayer.GetTag, RenameDialog.GetCountry.GetDiplomacy.GetTopOverlordOrThis.GetTag), Not(EqualTo_string(RenameDialog.GetCountry.GetDiplomacy.GetSubjectType.GetNameKey, 'tributary')))]"
+                    #     raw_text = "TEXT: [GetVariableSystem.Get('renaming_new_name')] DEBUG: 'PLAYER: [GetPlayer.GetTag] TARGET: [RenameDialog.GetCountry.GetDiplomacy.GetTopOverlord.IsValid]' TRIBUTARY: [EqualTo_string(RenameDialog.GetCountry.GetDiplomacy.GetSubjectType.GetNameKey, 'tributary')] ISEQUAL: [And3(RenameDialog.GetCountry.GetDiplomacy.GetTopOverlord.IsValid, EqualTo_string(GetPlayer.GetTag, RenameDialog.GetCountry.GetDiplomacy.GetTopOverlordOrThis.GetTag), Not(EqualTo_string(RenameDialog.GetCountry.GetDiplomacy.GetSubjectType.GetNameKey, 'tributary')))]"
                     #     align = center
                     #     default_format = "#low"
                     # }
