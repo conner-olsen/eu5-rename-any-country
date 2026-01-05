@@ -16,7 +16,7 @@ Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedet
 
 ### Manual Installation
 1. Clone or download this repository
-2. Copy it to `Documents\Paradox Interactive\Europa Universalis V\mod`
+2. Copy it to `Documents/Paradox Interactive/Europa Universalis V/mod`
 3. Enable as normal in game
 
 ## License
