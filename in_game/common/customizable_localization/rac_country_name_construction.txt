@@ -4,7 +4,7 @@
         localization_key = country_name_construction_name
         trigger = {
             OR = {
-                has_variable = ran_custom_name_set
+                has_variable = rac_custom_name_set
                 AND = {
                     tag = PAP
                     has_reform = government_reform:papacy_reform
