@@ -1,0 +1,5 @@
+﻿# This is just to get rid of the "Variable 'rac_custom_name_set' is used but is never set."
+# It is set, just using UI script, which the game doesn't recognize.
+rac_dummy_effect = {
+    set_variable = rac_custom_name_set
+}
