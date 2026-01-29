@@ -145,4 +145,3 @@
         fallback = yes
     }
 }
-country_name_construction_map = { parent = country_name_construction suffix = "_map" }
