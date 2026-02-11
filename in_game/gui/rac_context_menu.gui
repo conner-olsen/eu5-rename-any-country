@@ -55,7 +55,7 @@
 			}
 
 			ContextMenuEntry = {
-                # MODIFICATION: Allow renaming any country.
+                # RAC-CHANGE: Allow renaming any country.
 				visible = "[Country.IsValid]"
 
 				blockoverride "click_action" {
