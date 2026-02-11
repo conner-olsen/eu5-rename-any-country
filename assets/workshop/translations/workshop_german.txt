@@ -1,0 +1,98 @@
+===WORKSHOP_TITLE===
+Jedes Land umbenennen / Rename Any Country
+===WORKSHOP_DESCRIPTION===
+[i]You are on the DeepL-Generated German Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
+
+[h1]Übersicht:[/h1]
+Ermöglicht es dir, jedes Land umzubenennen (sogar dich selbst).
+
+[h1]Features:[/h1]
+[olist]
+ [*][b]Ermöglicht die Umbenennung jedes Landes über das Rechtsklick-Kontextmenü.[/b]
+[/olist]
+
+[h1]Hinweis:[/h1]
+[olist]
+ [*] Möglicherweise musst du ein paar Monate warten, bis die aktualisierten Namen auf der Karte angezeigt werden. Das Speichern und Neuladen kann dies beschleunigen.
+[/olist]
+
+[h2]Native Lokalisierungen:[/h2]
+[list]
+ [*][b]Englisch:[/b] Primär
+ [*][b]Polnisch / Polski:[/b] Danke an @kacpi_tv.
+ [*][b]Chinesisch (中文):[/b] Verfügbar in der [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) Mod[/url].
+[/list]
+
+[h2]Mit DeepL übersetzte Lokalisierungen:[/h2]
+[list]
+ [*][b]Französisch / Français[/b]
+ [*][b]Deutsch / Deutsch[/b]
+ [*][b]Japanisch / 日本語[/b]
+ [*][b]Koreanisch / 한국어[/b]
+ [*][b]Portugiesisch (Brasilien) / Português (Brasil)[/b]
+ [*][b]Russisch / Русский[/b]
+ [*][b]Spanisch / Español[/b]
+ [*][b]Türkisch / Türkçe[/b]
+[/list]
+
+[h1]Kompatibilität:[/h1]
+[list]
+ [*]Nicht Ironman-kompatibel.
+ [*]Vollständig mit Spielständen kompatibel.
+ [*]Sollte mit jeder Mod funktionieren. (Falls du meine Mod „Improved Subject Management“ verwendest, lade diese vor/über „Rename Any Country“; andernfalls wirst du nur Untertanen umbenennen können.)
+ [*]Kompatibilitätspatches können auf Anfrage hinzugefügt werden.
+[/list]
+
+Zusätzlich zum Kommentarbereich kannst du Fragen stellen, Fehler melden oder Vorschläge machen, indem du @arealconner im [url=https://discord.gg/zeQ6x9wrPq]#utility-mods-Kanal des EU5 Community Discord-Servers[/url] anpinnst. Und falls du daran interessiert bist, an der Entwicklung dieser oder einer meiner anderen Mods mitzuwirken, kannst du mich auf Discord unter @arealconner anpingen oder hinzufügen. Alle Beiträge sind willkommen.
+
+Die Quellcode- und Entwicklungsversionen der Mod sind auf [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub verfügbar.[/url]
+
+
+[i]Native English Description[/i]
+[h1]Overview:[/h1]
+Allows you to rename any country (even yourself).
+
+[h1]Features:[/h1]
+[olist]
+ [*][b]Allow you to rename any country via the right-click context menu.[/b]
+[/olist]
+
+[h1]Note:[/h1]
+[olist]
+ [*] You may have to wait a couple of months to see updated names reflected on the map. Saving and reloading may speed this up.
+[/olist]
+
+[h2]Native Localizations:[/h2]
+[list]
+ [*][b]English:[/b] Primary
+ [*][b]Polish / Polski:[/b] Thanks to @kacpi_tv.
+ [*][b]Chinese (中文):[/b] Available in the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url].
+[/list]
+
+[h2]DeepL-Translated Localizations:[/h2]
+[list]
+ [*][b]French / Français[/b]
+ [*][b]German / Deutsch[/b]
+ [*][b]Japanese / 日本語[/b]
+ [*][b]Korean / 한국어[/b]
+ [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
+ [*][b]Russian / Русский[/b]
+ [*][b]Spanish / Español[/b]
+ [*][b]Turkish / Türkçe[/b]
+[/list]
+
+[h1]Compatibility:[/h1]
+[list]
+ [*]Not Ironman Compatible.
+ [*]Fully save game compatible.
+ [*]Should work with any mod. (If you are using my Improved Subject Management mod, load it before/above Rename Any Country; otherwise, you will only be able to rename subjects.)
+ [*]I may add compatibility patches upon request.
+[/list]
+
+In addition to the comment section, you can also ask any questions, report bugs, or make suggestions by pinging @arealconner in the [url=https://discord.gg/zeQ6x9wrPq]#utility-mods channel of the EU5 Community discord server[/url]. And if you are interested in joining in the development of this or one of my other mods, you can ping or add me on Discord @arealconner. All contributions are welcome.
+
+The source and dev versions of the mod are available on [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
+
+
+
+
