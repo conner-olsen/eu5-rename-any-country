@@ -14,17 +14,16 @@ Allows you to rename any country (even yourself).
 [h2]Native Localizations:[/h2]
 [list]
  [*][b]English:[/b] Primary
+ [*][b]Polish / Polski:[/b] Thanks to @kacpi_tv.
  [*][b]Chinese (中文):[/b] Available in the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url].
 [/list]
 
 [h2]DeepL-Translated Localizations:[/h2]
 [list]
- [*][b]Chinese / 中文[/b]
  [*][b]French / Français[/b]
  [*][b]German / Deutsch[/b]
  [*][b]Japanese / 日本語[/b]
  [*][b]Korean / 한국어[/b]
- [*][b]Polish / Polski[/b]
  [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
  [*][b]Russian / Русский[/b]
  [*][b]Spanish / Español[/b]
