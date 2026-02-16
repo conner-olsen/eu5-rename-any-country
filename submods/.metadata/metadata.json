@@ -1,0 +1,28 @@
+﻿{
+	"name": "Rename Any Country + Historical Tweaks Compatibility Patch",
+	"id": "rac.ht.comp.dev",
+	"version": "1.1",
+	"game_id": "eu5",
+	"supported_game_version": "1.1.*",
+	"short_description": "Allows renaming any country (including yourself).",
+	"tags": [
+		"Fixes"
+	],
+	"relationships": [
+		{
+			"rel_type": "dependency",
+			"id": "rename.any.country",
+			"display_name": "Rename Any Country",
+			"resource_type": "mod",
+			"version": "*"
+		},
+		{
+			"rel_type": "dependency",
+			"id": "historical_tweaks",
+			"display_name": "Historical Tweaks",
+			"resource_type": "mod",
+			"version": "*"
+		}
+	],
+	"game_custom_data": {}
+}
