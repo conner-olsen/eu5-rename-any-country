@@ -9,6 +9,7 @@ Allows you to rename any country (even yourself).
 [h1]Note:[/h1]
 [olist]
  [*] You may have to wait a couple of months to see updated names reflected on the map. Saving and reloading may speed this up.
+ [*] The mod does not currently work in multiplayer. I have not found a good workaround yet. There is one possible way that is pretty terrible to do, but if anyone knows a workaround or wants to implement my wacky solution, reach out and I will add you to the mod page as well.
 [/olist]
 
 [h2]Native Localizations:[/h2]
