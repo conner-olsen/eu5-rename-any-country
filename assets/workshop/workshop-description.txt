@@ -37,6 +37,7 @@ Allows you to rename any country (even yourself).
  [*]Fully save game compatible.
  [*]Should work with any mod. (If you are using my Improved Subject Management mod, load it before/above Rename Any Country; otherwise, you will only be able to rename subjects.)
  [*]I may add compatibility patches upon request.
+ [*]The mod will [b]not[/b] work in ironman or multiplayer games.
 [/list]
 
 In addition to the comment section, you can also ask any questions, report bugs, or make suggestions by pinging @arealconner in the [url=https://discord.gg/zeQ6x9wrPq]#utility-mods channel of the EU5 Community discord server[/url]. And if you are interested in joining in the development of this or one of my other mods, you can ping or add me on Discord @arealconner. All contributions are welcome.
