@@ -1,0 +1,19 @@
+{
+  "definitions": {
+    "type:CountryContextMenuSection": {
+      "base_widget": "ContextMenuSection",
+      "mod_file": "in_game/gui/rac_context_menu.gui",
+      "namespace": "ContextMenuSpecificTypes",
+      "tracking_path": "tools/dependencies/gui-tracking/types/CountryContextMenuSection.gui",
+      "vanilla_file": "in_game/gui/context_menu.gui"
+    },
+    "widget:rename_dialog": {
+      "base_widget": null,
+      "mod_file": "in_game/gui/rename_dialog.gui",
+      "namespace": "window",
+      "tracking_path": "tools/dependencies/gui-tracking/widgets/rename_dialog.gui",
+      "vanilla_file": "in_game/gui/rename_dialog.gui"
+    }
+  },
+  "version": 1
+}
