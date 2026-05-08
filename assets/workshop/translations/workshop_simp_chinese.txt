@@ -3,96 +3,58 @@
 ===WORKSHOP_DESCRIPTION===
 [i]You are on the DeepL-Generated Simplified Chinese Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
-[h1]概览：[/h1]
-允许您重命名任何国家（包括您自己）。
+[h1]概述：[/h1]
+...
 
-[h1]功能特点：[/h1]
+[h1]特色内容：[/h1]
 [olist]
- [*][b]允许您通过右键菜单重命名任何国家。[/b]
+ [*][b]特色 1：[/b] 特色 1 描述
+  [list]
+   [*][b]子特色 1：[/b] 特色 1 子特色描述
+   [*][b]子特色 2：[/b] 特色 1 子特色描述
+  [/list]
+ [*][b]特色 2：[/b] 特色 2 描述
+ [*][b]...[/b]
 [/olist]
 
-[h1]注意：[/h1]
+[h1]开发计划：[/h1]
 [olist]
- [*] 您可能需要等待几个月才能在地图上看到更新后的名称。保存并重新加载可能会加快这一过程。
+ [*][b]计划特色 1：[/b] 计划特色 1 描述
+ [*][b]计划特色 2：[/b] 计划特色 2 描述
+ [*][b]...[/b]
 [/olist]
 
-[h2]原生本地化：[/h2]
+[h1]原生本地化：[/h1]
 [list]
- [*][b]英语 (English)：[/b] 主要
- [*][b]波兰语 / Polski：[/b] 感谢 @kacpi_tv。
- [*][b]中文：[/b] 已包含在 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url] 中。
+ [*][b]英语：[/b] 主要
 [/list]
 
-[h2]DeepL 翻译本地化：[/h2]
+[h1]经 DeepL 翻译的本地化：[/h1]
 [list]
+ [*][b]中文 / 中文[/b]
  [*][b]法语 / Français[/b]
  [*][b]德语 / Deutsch[/b]
  [*][b]日语 / 日本語[/b]
  [*][b]韩语 / 한국어[/b]
+ [*][b]波兰语 / Polski[/b]
  [*][b]葡萄牙语（巴西） / Português (Brasil)[/b]
  [*][b]俄语 / Русский[/b]
  [*][b]西班牙语 / Español[/b]
  [*][b]土耳其语 / Türkçe[/b]
 [/list]
 
+[h1]更新日志：[/h1]
+请参阅[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]创意工坊页面上的更新记录[/url]。
+
 [h1]兼容性：[/h1]
 [list]
- [*]不兼容铁人模式。
+ [*]不兼容铁人模式/成就。
  [*]完全兼容存档。
- [*]应可与任何 mod 兼容。（如果您正在使用我的 Improved Subject Management mod，请将其加载在 Rename Any Country 之前/上方；否则，您将只能重命名从属国。）
- [*]我可以根据要求添加兼容性补丁。
+ [*]应可与任何模组（Mod）兼容。
+ [*]我可根据需求添加兼容性补丁。
 [/list]
 
-除了评论区，您还可以通过在 [url=https://discord.gg/zeQ6x9wrPq]EU5 Community Discord 服务器的 #utility-mods 频道[/url] 中 @arealconner 来提出任何问题、报告错误或提出建议。如果您有兴趣参与此 mod 或我其他 mod 的开发，可以在 Discord 上 @ 或添加我为好友 (@arealconner)。欢迎任何形式的贡献。
+除了置顶的建议讨论区外，您也可以在 [url=$REPLACE_ME$]$REPLACE_ME$ Discord 服务器的 #$REPLACE_ME$ 频道[/url]中提出任何问题、反馈错误（Bug）或提供建议。如果您有兴趣参与本模组或我其他模组的开发，可以在 Discord 上 @$REPLACE_ME$ 或添加我为好友。欢迎任何形式的贡献。
 
-该 mod 的源码和开发版本可在 [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] 上找到。
-
-
-[i]Native English Description[/i]
-[h1]Overview:[/h1]
-Allows you to rename any country (even yourself).
-
-[h1]Features:[/h1]
-[olist]
- [*][b]Allow you to rename any country via the right-click context menu.[/b]
-[/olist]
-
-[h1]Note:[/h1]
-[olist]
- [*] You may have to wait a couple of months to see updated names reflected on the map. Saving and reloading may speed this up.
-[/olist]
-
-[h2]Native Localizations:[/h2]
-[list]
- [*][b]English:[/b] Primary
- [*][b]Polish / Polski:[/b] Thanks to @kacpi_tv.
- [*][b]Chinese (中文):[/b] Available in the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url].
-[/list]
-
-[h2]DeepL-Translated Localizations:[/h2]
-[list]
- [*][b]French / Français[/b]
- [*][b]German / Deutsch[/b]
- [*][b]Japanese / 日本語[/b]
- [*][b]Korean / 한국어[/b]
- [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
- [*][b]Russian / Русский[/b]
- [*][b]Spanish / Español[/b]
- [*][b]Turkish / Türkçe[/b]
-[/list]
-
-[h1]Compatibility:[/h1]
-[list]
- [*]Not Ironman Compatible.
- [*]Fully save game compatible.
- [*]Should work with any mod. (If you are using my Improved Subject Management mod, load it before/above Rename Any Country; otherwise, you will only be able to rename subjects.)
- [*]I may add compatibility patches upon request.
-[/list]
-
-In addition to the comment section, you can also ask any questions, report bugs, or make suggestions by pinging @arealconner in the [url=https://discord.gg/zeQ6x9wrPq]#utility-mods channel of the EU5 Community discord server[/url]. And if you are interested in joining in the development of this or one of my other mods, you can ping or add me on Discord @arealconner. All contributions are welcome.
-
-The source and dev versions of the mod are available on [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
-
-
-
+该模组的源码和开发版本可在 [url=$REPLACE_ME$]GitHub[/url] 上获取。
 

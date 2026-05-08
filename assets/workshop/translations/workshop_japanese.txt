@@ -1,98 +1,60 @@
 ===WORKSHOP_TITLE===
-あらゆる国家を改名 / Rename Any Country
+任意の国を改名 / Rename Any Country
 ===WORKSHOP_DESCRIPTION===
 [i]You are on the DeepL-Generated Japanese Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]概要:[/h1]
-任意の国（自国を含む）の名前を変更できるようにします。
+...
 
 [h1]特徴:[/h1]
 [olist]
- [*][b]右クリックのコンテキストメニューから、任意の国の名前を変更できます。[/b]
+ [*][b]特徴 1:[/b] 特徴 1の説明
+  [list]
+   [*][b]サブ機能 1:[/b] 特徴 1のサブ機能の説明
+   [*][b]サブ機能 2:[/b] 特徴 1のサブ機能の説明
+  [/list]
+ [*][b]特徴 2:[/b] 特徴 2の説明
+ [*][b]...[/b]
 [/olist]
 
-[h1]注記:[/h1]
+[h1]計画中/今後の予定:[/h1]
 [olist]
- [*] 変更された名前がマップ上に反映されるまで、数ヶ月待つ必要がある場合があります。セーブしてリロードすることで反映が早まることがあります。
+ [*][b]計画中の機能 1:[/b] 計画中の機能 1の説明
+ [*][b]計画中の機能 2:[/b] 計画中の機能 2の説明
+ [*][b]...[/b]
 [/olist]
 
-[h2]ネイティブローカライズ:[/h2]
+[h1]ネイティブ・ローカライズ:[/h1]
 [list]
- [*][b]英語 (English):[/b] 主要 (Primary)
- [*][b]ポーランド語 / Polski:[/b] @kacpi_tv 氏に感謝します。
- [*][b]中国語 (中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url]にて利用可能です。
+ [*][b]英語:[/b] メイン
 [/list]
 
-[h2]DeepL翻訳によるローカライズ:[/h2]
+[h1]DeepL翻訳によるローカライズ:[/h1]
 [list]
+ [*][b]中国語 / 中文[/b]
  [*][b]フランス語 / Français[/b]
  [*][b]ドイツ語 / Deutsch[/b]
  [*][b]日本語 / 日本語[/b]
  [*][b]韓国語 / 한국어[/b]
+ [*][b]ポーランド語 / Polski[/b]
  [*][b]ポルトガル語（ブラジル） / Português (Brasil)[/b]
  [*][b]ロシア語 / Русский[/b]
  [*][b]スペイン語 / Español[/b]
  [*][b]トルコ語 / Türkçe[/b]
 [/list]
 
+[h1]更新履歴:[/h1]
+詳細はワークショップページの[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]更新履歴[/url]をご覧ください。
+
 [h1]互換性:[/h1]
 [list]
- [*]アイアンマン非対応。
+ [*]アイアンマン/実績非対応。
  [*]セーブデータとの完全な互換性あり。
- [*]原則としてすべてのMODと互換性があるはずです。（私の「Improved Subject Management」MODを使用している場合は、本MOD「Rename Any Country」よりも前（上）に読み込んでください。そうしないと、従属国しか名前を変更できなくなります。）
- [*]リクエストがあれば互換パッチを追加する場合があります。
+ [*]他のあらゆるModと併用可能なはずです。
+ [*]リクエストがあれば、互換性パッチを追加する場合があります。
 [/list]
 
-コメント欄に加えて、[url=https://discord.gg/zeQ6x9wrPq]EU5 Community Discordサーバーの#utility-modsチャンネル[/url]で @arealconner をメンションすることで、質問、バグ報告、提案を行うことができます。また、このMODや他のMODの開発に参加することに興味がある場合は、Discordで @arealconner をメンションするかフレンドに追加してください。あらゆる貢献を歓迎します。
+固定された提案用ディスカッションに加え、[url=$REPLACE_ME$]$REPLACE_ME$ Discordサーバーの#$REPLACE_ME$チャンネル[/url]でも、質問、バグ報告、提案を受け付けています。また、このModや他のModの開発に参加することに興味がある場合は、Discordの@$REPLACE_ME$までメンション、またはフレンド申請を送ってください。あらゆる貢献を歓迎します。
 
-このMODのソースおよび開発版は [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] で公開されています。
-
-
-[i]Native English Description[/i]
-[h1]Overview:[/h1]
-Allows you to rename any country (even yourself).
-
-[h1]Features:[/h1]
-[olist]
- [*][b]Allow you to rename any country via the right-click context menu.[/b]
-[/olist]
-
-[h1]Note:[/h1]
-[olist]
- [*] You may have to wait a couple of months to see updated names reflected on the map. Saving and reloading may speed this up.
-[/olist]
-
-[h2]Native Localizations:[/h2]
-[list]
- [*][b]English:[/b] Primary
- [*][b]Polish / Polski:[/b] Thanks to @kacpi_tv.
- [*][b]Chinese (中文):[/b] Available in the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url].
-[/list]
-
-[h2]DeepL-Translated Localizations:[/h2]
-[list]
- [*][b]French / Français[/b]
- [*][b]German / Deutsch[/b]
- [*][b]Japanese / 日本語[/b]
- [*][b]Korean / 한국어[/b]
- [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
- [*][b]Russian / Русский[/b]
- [*][b]Spanish / Español[/b]
- [*][b]Turkish / Türkçe[/b]
-[/list]
-
-[h1]Compatibility:[/h1]
-[list]
- [*]Not Ironman Compatible.
- [*]Fully save game compatible.
- [*]Should work with any mod. (If you are using my Improved Subject Management mod, load it before/above Rename Any Country; otherwise, you will only be able to rename subjects.)
- [*]I may add compatibility patches upon request.
-[/list]
-
-In addition to the comment section, you can also ask any questions, report bugs, or make suggestions by pinging @arealconner in the [url=https://discord.gg/zeQ6x9wrPq]#utility-mods channel of the EU5 Community discord server[/url]. And if you are interested in joining in the development of this or one of my other mods, you can ping or add me on Discord @arealconner. All contributions are welcome.
-
-The source and dev versions of the mod are available on [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
-
-
-
+Modのソースコードおよび開発版は[url=$REPLACE_ME$]GitHub[/url]で公開されています。
 

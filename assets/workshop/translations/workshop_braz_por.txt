@@ -4,95 +4,57 @@ Renomear Qualquer País / Rename Any Country
 [i]You are on the DeepL-Generated Portuguese (Brazil) Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Visão Geral:[/h1]
-Permite que você renomeie qualquer país (até você mesmo).
+...
 
 [h1]Funcionalidades:[/h1]
 [olist]
- [*][b]Permite renomear qualquer país através do menu de contexto de clique com o botão direito.[/b]
+ [*][b]Funcionalidade 1:[/b] Descrição da Funcionalidade 1
+  [list]
+   [*][b]Subfuncionalidade 1:[/b] Descrição da subfuncionalidade 1
+   [*][b]Subfuncionalidade 2:[/b] Descrição da subfuncionalidade 1
+  [/list]
+ [*][b]Funcionalidade 2:[/b] Descrição da Funcionalidade 2
+ [*][b]...[/b]
 [/olist]
 
-[h1]Nota:[/h1]
+[h1]Planejado/Futuro:[/h1]
 [olist]
- [*] Pode ser necessário esperar alguns meses para ver os nomes atualizados refletidos no mapa. Salvar e carregar o jogo novamente pode acelerar esse processo.
+ [*][b]Funcionalidade Planejada 1:[/b] Descrição da Funcionalidade Planejada 1
+ [*][b]Funcionalidade Planejada 2:[/b] Descrição da Funcionalidade Planejada 2
+ [*][b]...[/b]
 [/olist]
 
-[h2]Traduções Nativas:[/h2]
+[h1]Localizações Nativas:[/h1]
 [list]
  [*][b]Inglês:[/b] Primário
- [*][b]Polonês / Polski:[/b] Agradecimentos a @kacpi_tv.
- [*][b]Chinês (中文):[/b] Disponível no [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod 凯撒汉化 (Caesar Chinese Translation)[/url].
 [/list]
 
-[h2]Traduções via DeepL:[/h2]
+[h1]Localizações Traduzidas pelo DeepL:[/h1]
 [list]
- [*][b]Francês / Français[/b]
- [*][b]Alemão / Deutsch[/b]
- [*][b]Japonês / 日本語[/b]
- [*][b]Coreano / 한국어[/b]
- [*][b]Português (Brasil) / Português (Brasil)[/b]
- [*][b]Russo / Русский[/b]
- [*][b]Espanhol / Español[/b]
- [*][b]Turco / Türkçe[/b]
-[/list]
-
-[h1]Compatibilidade:[/h1]
-[list]
- [*]Não compatível com o modo Ironman.
- [*]Totalmente compatível com jogos salvos.
- [*]Deve funcionar com qualquer mod. (Se você estiver usando meu mod Improved Subject Management, carregue-o antes/acima do Rename Any Country; caso contrário, você só poderá renomear súditos.)
- [*]Posso adicionar patches de compatibilidade mediante solicitação.
-[/list]
-
-Além da seção de comentários, você também pode tirar dúvidas, relatar bugs ou fazer sugestões marcando @arealconner no [url=https://discord.gg/zeQ6x9wrPq]canal #utility-mods do servidor do Discord da Comunidade EU5[/url]. E se você estiver interessado em participar do desenvolvimento deste ou de um dos meus outros mods, você pode me marcar ou me adicionar no Discord @arealconner. Todas as contribuições são bem-vindas.
-
-As versões de código-fonte e de desenvolvimento do mod estão disponíveis no [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
-
-
-[i]Native English Description[/i]
-[h1]Overview:[/h1]
-Allows you to rename any country (even yourself).
-
-[h1]Features:[/h1]
-[olist]
- [*][b]Allow you to rename any country via the right-click context menu.[/b]
-[/olist]
-
-[h1]Note:[/h1]
-[olist]
- [*] You may have to wait a couple of months to see updated names reflected on the map. Saving and reloading may speed this up.
-[/olist]
-
-[h2]Native Localizations:[/h2]
-[list]
- [*][b]English:[/b] Primary
- [*][b]Polish / Polski:[/b] Thanks to @kacpi_tv.
- [*][b]Chinese (中文):[/b] Available in the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url].
-[/list]
-
-[h2]DeepL-Translated Localizations:[/h2]
-[list]
+ [*][b]Chinese / 中文[/b]
  [*][b]French / Français[/b]
  [*][b]German / Deutsch[/b]
  [*][b]Japanese / 日本語[/b]
  [*][b]Korean / 한국어[/b]
+ [*][b]Polish / Polski[/b]
  [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
  [*][b]Russian / Русский[/b]
  [*][b]Spanish / Español[/b]
  [*][b]Turkish / Türkçe[/b]
 [/list]
 
-[h1]Compatibility:[/h1]
+[h1]Registro de Alterações:[/h1]
+Veja as [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Notas de Atualização na página do workshop[/url].
+
+[h1]Compatibilidade:[/h1]
 [list]
- [*]Not Ironman Compatible.
- [*]Fully save game compatible.
- [*]Should work with any mod. (If you are using my Improved Subject Management mod, load it before/above Rename Any Country; otherwise, you will only be able to rename subjects.)
- [*]I may add compatibility patches upon request.
+ [*]Não compatível com Ironman/Conquistas.
+ [*]Totalmente compatível com jogos salvos (save games).
+ [*]Deve funcionar com qualquer mod.
+ [*]Posso adicionar patches de compatibilidade mediante solicitação.
 [/list]
 
-In addition to the comment section, you can also ask any questions, report bugs, or make suggestions by pinging @arealconner in the [url=https://discord.gg/zeQ6x9wrPq]#utility-mods channel of the EU5 Community discord server[/url]. And if you are interested in joining in the development of this or one of my other mods, you can ping or add me on Discord @arealconner. All contributions are welcome.
+Além da discussão de sugestões fixada, você também pode tirar dúvidas, relatar bugs ou fazer sugestões no [url=$REPLACE_ME$]canal #$REPLACE_ME$ do servidor de Discord $REPLACE_ME$[/url]. E se você tiver interesse em participar do desenvolvimento deste ou de um dos meus outros mods, você pode me chamar ou me adicionar no Discord @$REPLACE_ME$. Todas as contribuições são bem-vindas.
 
-The source and dev versions of the mod are available on [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
-
-
-
+As versões de código-fonte e de desenvolvimento do mod estão disponíveis no [url=$REPLACE_ME$]GitHub.[/url]
 
