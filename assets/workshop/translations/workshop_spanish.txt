@@ -3,40 +3,34 @@ Renombrar Cualquier País / Rename Any Country
 ===WORKSHOP_DESCRIPTION===
 [i]You are on the DeepL-Generated Spanish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
-[h1]Resumen:[/h1]
-...
+[h1]Descripción general:[/h1]
+Permite renombrar cualquier país (incluso el tuyo).
 
 [h1]Características:[/h1]
 [olist]
- [*][b]Característica 1:[/b] Descripción de la característica 1
-  [list]
-   [*][b]Sub-característica 1:[/b] Descripción de la sub-característica 1
-   [*][b]Sub-característica 2:[/b] Descripción de la sub-característica 2
-  [/list]
- [*][b]Característica 2:[/b] Descripción de la característica 2
- [*][b]...[/b]
+ [*][b]Renombrar cualquier país:[/b] Renombra cualquier país, incluido el tuyo, a través del menú contextual al hacer clic derecho.
+ [*][b]Título de país opcional:[/b] Marca la casilla "Mostrar título del país" en el diálogo de cambio de nombre para mantener el formato de título normal del país en el nuevo nombre, por ejemplo "Reino de Galia" en lugar de solo "Galia". Déjala desmarcada para mostrar el nombre exactamente como se escribió.
 [/olist]
 
-[h1]Planificado/Próximamente:[/h1]
+[h1]Nota:[/h1]
 [olist]
- [*][b]Característica planificada 1:[/b] Descripción de la característica planificada 1
- [*][b]Característica planificada 2:[/b] Descripción de la característica planificada 2
- [*][b]...[/b]
+ [*] Es posible que tengas que esperar un par de meses para ver los nombres actualizados reflejados en el mapa. Guardar y volver a cargar puede acelerar esto.
+ [*] El mod no funciona actualmente en multijugador. Todavía no he encontrado una buena solución. Hay una forma posible que es bastante terrible de hacer, pero si alguien conoce una solución o quiere implementar mi disparatada idea, contáctame y te añadiré también a la página del mod.
 [/olist]
 
-[h1]Traducciones nativas:[/h1]
+[h1]Localizaciones nativas:[/h1]
 [list]
- [*][b]Inglés:[/b] Principal
+ [*][b]Inglés:[/b] Primario
+ [*][b]Polaco / Polski:[/b] Gracias a @kacpi_tv.
+ [*][b]Chino (中文):[/b] Disponible en el [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod de traducción al chino César (Caesar Chinese Translation)[/url].
 [/list]
 
-[h1]Traducciones mediante DeepL:[/h1]
+[h1]Localizaciones traducidas por DeepL:[/h1]
 [list]
- [*][b]Chino / 中文[/b]
  [*][b]Francés / Français[/b]
  [*][b]Alemán / Deutsch[/b]
  [*][b]Japonés / 日本語[/b]
  [*][b]Coreano / 한국어[/b]
- [*][b]Polaco / Polski[/b]
  [*][b]Portugués (Brasil) / Português (Brasil)[/b]
  [*][b]Ruso / Русский[/b]
  [*][b]Español / Español[/b]
@@ -44,17 +38,18 @@ Renombrar Cualquier País / Rename Any Country
 [/list]
 
 [h1]Registro de cambios:[/h1]
-Consulta las [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]notas de cambios en la página de la workshop[/url].
+Consulta las [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Notas de cambios en la página de la workshop[/url].
 
 [h1]Compatibilidad:[/h1]
 [list]
- [*]No es compatible con Ironman ni logros.
+ [*]No es compatible con Ironman.
  [*]Totalmente compatible con partidas guardadas.
- [*]Debería funcionar con cualquier mod.
- [*]Puedo añadir parches de compatibilidad a petición.
+ [*]Debería funcionar con cualquier mod. (Si estás usando mi mod Improved Subject Management, cárgalo antes/por encima de Rename Any Country; de lo contrario, solo podrás renombrar sujetos).
+ [*]Podría añadir parches de compatibilidad bajo petición.
+ [*]El mod [b]no[/b] funcionará en partidas ironman o multijugador.
 [/list]
 
-Además del hilo de sugerencias fijado, también puedes hacer preguntas, informar de errores o enviar sugerencias en el [url=$REPLACE_ME$]canal #$REPLACE_ME$ del servidor de Discord de $REPLACE_ME$[/url]. Y si te interesa participar en el desarrollo de este o de alguno de mis otros mods, puedes mencionarme o añadirme en Discord @$REPLACE_ME$. Todas las contribuciones son bienvenidas.
+Además de la sección de comentarios, también puedes hacer cualquier pregunta, informar de errores o hacer sugerencias mencionando a @arealconner en el [url=https://discord.gg/zeQ6x9wrPq]canal #utility-mods del servidor de Discord de la comunidad de EU5[/url]. Y si estás interesado en participar en el desarrollo de este o de alguno de mis otros mods, puedes mencionarme o añadirme en Discord @arealconner. Todas las contribuciones son bienvenidas.
 
-El código fuente y las versiones de desarrollo del mod están disponibles en [url=$REPLACE_ME$]GitHub.[/url]
+Las versiones de código fuente y de desarrollo del mod están disponibles en [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
 

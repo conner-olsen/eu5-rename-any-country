@@ -4,43 +4,37 @@ Herhangi Bir Ülkeyi Yeniden Adlandır / Rename Any Country
 [i]You are on the DeepL-Generated Turkish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Genel Bakış:[/h1]
-...
+Herhangi bir ülkeyi (kendiniz dahil) yeniden adlandırmanıza olanak tanır.
 
 [h1]Özellikler:[/h1]
 [olist]
- [*][b]Özellik 1:[/b] Özellik 1 açıklaması
-  [list]
-   [*][b]Alt Özellik 1:[/b] Özellik 1 alt özellik açıklaması
-   [*][b]Alt Özellik 2:[/b] Özellik 1 alt özellik açıklaması
-  [/list]
- [*][b]Özellik 2:[/b] Özellik 2 açıklaması
- [*][b]...[/b]
+ [*][b]Herhangi bir ülkeyi yeniden adlandırın:[/b] Kendi ülkeniz de dahil olmak üzere herhangi bir ülkeyi sağ tık bağlam menüsü aracılığıyla yeniden adlandırın.
+ [*][b]İsteğe bağlı ülke unvanı:[/b] Yeni isimde ülkenin normal unvan biçimlendirmesini korumak için (örneğin sadece "Gaul" yerine "Kingdom of Gaul") yeniden adlandırma penceresindeki "Show country title" kutucuğunu işaretleyin. İsmin tam olarak yazıldığı gibi görünmesi için kutucuğu boş bırakın.
 [/olist]
 
-[h1]Planlanan/Gelecek Özellikler:[/h1]
+[h1]Not:[/h1]
 [olist]
- [*][b]Planlanan Özellik 1:[/b] Planlanan Özellik 1 açıklaması
- [*][b]Planlanan Özellik 2:[/b] Planlanan Özellik 2 açıklaması
- [*][b]...[/b]
+ [*] Güncellenen isimlerin haritaya yansıdığını görmek için birkaç ay beklemeniz gerekebilir. Kaydedip tekrar yüklemek bunu hızlandırabilir.
+ [*] Mod şu anda çok oyunculu modda çalışmamaktadır. Henüz iyi bir çözüm yolu bulamadım. Yapması oldukça zahmetli bir yol mevcut, ancak bir çözüm yolu bilen veya benim çılgın çözümümü uygulamak isteyen biri olursa bana ulaşsın; sizi de mod sayfasına ekleyeyim.
 [/olist]
 
-[h1]Orijinal Yerelleştirmeler:[/h1]
+[h1]Yerel Çeviriler:[/h1]
 [list]
- [*][b]İngilizce:[/b] Ana Dil
+ [*][b]İngilizce:[/b] Birincil
+ [*][b]Lehçe / Polski:[/b] @kacpi_tv sayesinde.
+ [*][b]Çince (中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) modunda[/url] mevcuttur.
 [/list]
 
 [h1]DeepL ile Çevrilen Yerelleştirmeler:[/h1]
 [list]
- [*][b]Chinese / 中文[/b]
- [*][b]French / Français[/b]
- [*][b]German / Deutsch[/b]
- [*][b]Japanese / 日本語[/b]
- [*][b]Korean / 한국어[/b]
- [*][b]Polish / Polski[/b]
- [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
- [*][b]Russian / Русский[/b]
- [*][b]Spanish / Español[/b]
- [*][b]Turkish / Türkçe[/b]
+ [*][b]Fransızca / Français[/b]
+ [*][b]Almanca / Deutsch[/b]
+ [*][b]Japonca / 日本語[/b]
+ [*][b]Korece / 한국어[/b]
+ [*][b]Portekizce (Brezilya) / Português (Brasil)[/b]
+ [*][b]Rusça / Русский[/b]
+ [*][b]İspanyolca / Español[/b]
+ [*][b]Türkçe / Türkçe[/b]
 [/list]
 
 [h1]Değişiklik Günlüğü:[/h1]
@@ -48,13 +42,14 @@ Herhangi Bir Ülkeyi Yeniden Adlandır / Rename Any Country
 
 [h1]Uyumluluk:[/h1]
 [list]
- [*]Ironman/Başarım uyumlu değildir.
+ [*]Ironman uyumlu değildir.
  [*]Kayıtlı oyunlarla tam uyumludur.
- [*]Herhangi bir modla çalışmalıdır.
+ [*]Herhangi bir modla çalışmalıdır. (Eğer Improved Subject Management modumu kullanıyorsanız, onu Rename Any Country modundan önce/üstte yükleyin; aksi takdirde sadece vasalları yeniden adlandırabilirsiniz.)
  [*]İstek üzerine uyumluluk yamaları ekleyebilirim.
+ [*]Mod, ironman veya çok oyunculu oyunlarda [b]çalışmayacaktır[/b].
 [/list]
 
-Sabitlenmiş öneriler tartışmasına ek olarak, [url=$REPLACE_ME$]$REPLACE_ME$ Discord sunucusunun #$REPLACE_ME$ kanalında[/url] sorularınızı sorabilir, hata bildirebilir veya önerilerde bulunabilirsiniz. Eğer bu modun veya diğer modlarımdan birinin geliştirilmesine katılmakla ilgileniyorsanız, beni Discord üzerinden @$REPLACE_ME$ kullanıcı adıyla ekleyebilir veya etiketleyebilirsiniz. Tüm katkılara açığım.
+Yorumlar bölümüne ek olarak, [url=https://discord.gg/zeQ6x9wrPq]EU5 Topluluğu discord sunucusunun #utility-mods kanalında[/url] @arealconner kullanıcısını etiketleyerek soru sorabilir, hata bildirebilir veya öneride bulunabilirsiniz. Bu modun veya diğer modlarımdan birinin geliştirilmesine katılmak isterseniz, beni Discord'da @arealconner üzerinden ekleyebilir veya etiketleyebilirsiniz. Tüm katkılara açığım.
 
-Modun kaynak ve geliştirme sürümlerine [url=$REPLACE_ME$]GitHub[/url] üzerinden ulaşılabilir.
+Modun kaynak ve geliştirme sürümleri [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] üzerinde mevcuttur.
 

@@ -1,2 +1,4 @@
 ﻿l_japanese:
  CHANGE_NAME_SUBTITLE: "国の名前を変更する"
+ RAC_USE_TITLE_FORMAT: "国の称号を表示"
+ RAC_USE_TITLE_FORMAT_TT: "新しい名前は、その国の通常の称号と共に表示されます（例：「ゴール」ではなく「ゴール王国」）。チェックを外すと、入力した通りの名前がそのまま表示されます。"

@@ -1,2 +1,4 @@
 ﻿l_turkish:
  CHANGE_NAME_SUBTITLE: "Bir ülkenin adını değiştir"
+ RAC_USE_TITLE_FORMAT: "Ülke unvanını göster"
+ RAC_USE_TITLE_FORMAT_TT: "Yeni isim, ülkenin normal unvanıyla birlikte görüntülenir; örneğin 'Galya' yerine 'Galya Krallığı'. İşaretlenmediğinde isim tam olarak yazıldığı gibi görünür."

@@ -4,57 +4,52 @@ Zmień nazwę dowolnego państwa / Rename Any Country
 [i]You are on the DeepL-Generated Polish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Przegląd:[/h1]
-...
+Pozwala zmienić nazwę dowolnego kraju (nawet własnego).
 
-[h1]Funkcje:[/h1]
+[h1]Cechy:[/h1]
 [olist]
- [*][b]Funkcja 1:[/b] Opis funkcji 1
-  [list]
-   [*][b]Podfunkcja 1:[/b] Opis podfunkcji 1
-   [*][b]Podfunkcja 2:[/b] Opis podfunkcji 2
-  [/list]
- [*][b]Funkcja 2:[/b] Opis funkcji 2
- [*][b]...[/b]
+ [*][b]Zmień nazwę dowolnego kraju:[/b] Zmień nazwę dowolnego państwa, w tym własnego, poprzez menu kontekstowe prawego przycisku myszy.
+ [*][b]Opcjonalny tytuł państwa:[/b] Zaznacz pole „Show country title” w oknie zmiany nazwy, aby zachować normalne formatowanie tytułu państwa przy nowej nazwie, na przykład „Kingdom of Gaul” zamiast samego „Gaul”. Pozostaw odznaczone, aby wyświetlić nazwę dokładnie tak, jak została wpisana.
 [/olist]
 
-[h1]Planowane/Nadchodzące:[/h1]
+[h1]Uwaga:[/h1]
 [olist]
- [*][b]Planowana funkcja 1:[/b] Opis planowanej funkcji 1
- [*][b]Planowana funkcja 2:[/b] Opis planowanej funkcji 2
- [*][b]...[/b]
+ [*] Może być konieczne odczekanie kilku miesięcy, aby zaktualizowane nazwy zostały odzwierciedlone na mapie. Zapisanie i wczytanie gry może to przyspieszyć.
+ [*] Mod obecnie nie działa w trybie wieloosobowym. Nie znalazłem jeszcze dobrego rozwiązania. Istnieje jeden możliwy sposób, który jest dość uciążliwy w realizacji, ale jeśli ktoś zna obejście lub chce wdrożyć moje szalone rozwiązanie, proszę o kontakt – dodam Cię również do strony moda.
 [/olist]
 
-[h1]Tłumaczenia natywne:[/h1]
+[h1]Natywne lokalizacje:[/h1]
 [list]
- [*][b]Angielski:[/b] Główny
+ [*][b]English:[/b] Główny
+ [*][b]Polish / Polski:[/b] Podziękowania dla @kacpi_tv.
+ [*][b]Chinese (中文):[/b] Dostępny w modzie [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation)[/url].
 [/list]
 
-[h1]Tłumaczenia przez DeepL:[/h1]
+[h1]Lokalizacje przetłumaczone przez DeepL:[/h1]
 [list]
- [*][b]Chiński / 中文[/b]
- [*][b]Francuski / Français[/b]
- [*][b]Niemiecki / Deutsch[/b]
- [*][b]Japoński / 日本語[/b]
- [*][b]Koreański / 한국어[/b]
- [*][b]Polski / Polski[/b]
- [*][b]Portugalski (Brazylia) / Português (Brasil)[/b]
- [*][b]Rosyjski / Русский[/b]
- [*][b]Hiszpański / Español[/b]
- [*][b]Turecki / Türkçe[/b]
+ [*][b]French / Français[/b]
+ [*][b]German / Deutsch[/b]
+ [*][b]Japanese / 日本語[/b]
+ [*][b]Korean / 한국어[/b]
+ [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
+ [*][b]Russian / Русский[/b]
+ [*][b]Spanish / Español[/b]
+ [*][b]Turkish / Türkçe[/b]
 [/list]
 
-[h1]Lista zmian:[/h1]
-Zobacz [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]listę zmian na stronie warsztatu[/url].
+[h1]Dziennik zmian:[/h1]
+Zobacz [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Dziennik zmian na stronie warsztatu[/url].
 
 [h1]Kompatybilność:[/h1]
 [list]
- [*]Niekompatybilny z trybem Ironman/osiągnięciami.
- [*]W pełni kompatybilny z zapisami gier (save).
- [*]Powinien działać z każdym modem.
- [*]Mogę dodać patche kompatybilności na prośbę.
+ [*]Niekompatybilny z trybem Ironman.
+ [*]W pełni kompatybilny z zapisami gry.
+ [*]Powinien działać z każdym modem. (Jeśli używasz mojego moda Improved Subject Management, wczytaj go przed/powyżej Rename Any Country; w przeciwnym razie będziesz mógł zmieniać nazwy tylko poddanych).
+ [*]Na prośbę mogę dodać patche kompatybilności.
+ [*]Mod [b]nie[/b] będzie działać w trybie ironman ani w grach wieloosobowych.
 [/list]
 
-Oprócz przypiętej dyskusji dotyczącej sugestii, możesz również zadawać pytania, zgłaszać błędy lub przesyłać sugestie na [url=$REPLACE_ME$]kanale #$REPLACE_ME$ na serwerze Discord $REPLACE_ME$[/url]. A jeśli jesteś zainteresowany dołączeniem do prac nad tym lub jednym z moich innych modów, możesz mnie oznaczyć lub dodać na Discordzie @$REPLACE_ME$. Wszelki wkład jest mile widziany.
+Oprócz sekcji komentarzy, możesz również zadawać pytania, zgłaszać błędy lub sugerować zmiany, oznaczając @arealconner na [url=https://discord.gg/zeQ6x9wrPq]kanale #utility-mods na serwerze Discord społeczności EU5[/url]. A jeśli jesteś zainteresowany dołączeniem do prac nad tym lub innym z moich modów, możesz mnie oznaczyć lub dodać na Discordzie @arealconner. Wszelka pomoc jest mile widziana.
 
-Wersje źródłowe i deweloperskie moda są dostępne na [url=$REPLACE_ME$]GitHubie.[/url]
+Wersje źródłowe i deweloperskie moda są dostępne na [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHubie.[/url]
 

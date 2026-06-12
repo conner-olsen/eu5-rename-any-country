@@ -1,2 +1,4 @@
 ﻿l_english:
  CHANGE_NAME_SUBTITLE: "Change the name of a country"
+ RAC_USE_TITLE_FORMAT: "Show country title"
+ RAC_USE_TITLE_FORMAT_TT: "The new name is displayed with the country's normal title, for example 'Kingdom of Gaul' instead of 'Gaul'. When unchecked, the name appears exactly as typed."

@@ -1,2 +1,4 @@
 ﻿l_braz_por:
  CHANGE_NAME_SUBTITLE: "Alterar o nome de um país"
+ RAC_USE_TITLE_FORMAT: "Mostrar título do país"
+ RAC_USE_TITLE_FORMAT_TT: "O novo nome é exibido com o título normal do país, por exemplo, 'Reino da Gália' em vez de 'Gália'. Quando desmarcado, o nome aparece exatamente como digitado."

@@ -1,2 +1,4 @@
 ﻿l_simp_chinese:
  CHANGE_NAME_SUBTITLE: "更改国家名称"
+ RAC_USE_TITLE_FORMAT: "显示国家头衔"
+ RAC_USE_TITLE_FORMAT_TT: "新名称将与国家的常规头衔一同显示，例如“高卢王国”而非“高卢”。未勾选时，名称将完全按照输入的内容显示。"

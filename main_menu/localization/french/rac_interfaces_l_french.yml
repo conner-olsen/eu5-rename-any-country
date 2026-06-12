@@ -1,2 +1,4 @@
 ﻿l_french:
  CHANGE_NAME_SUBTITLE: "Modifier le nom d'un pays"
+ RAC_USE_TITLE_FORMAT: "Afficher le titre du pays"
+ RAC_USE_TITLE_FORMAT_TT: "Le nouveau nom s'affiche avec le titre habituel du pays, par exemple 'Royaume de Gaule' au lieu de 'Gaule'. Si la case n'est pas cochée, le nom apparaît exactement tel qu'il a été saisi."

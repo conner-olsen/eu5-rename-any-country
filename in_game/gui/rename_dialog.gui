@@ -75,6 +75,24 @@
 					}
 				}
 
+				# MODIFICATION: Title formatting checkbox
+				hbox = {
+					spacing = 8
+
+					button_checkbox_alt = {
+						name = "rac_title_format_checkbox"
+						size = { 20 20 }
+						tooltip = "RAC_USE_TITLE_FORMAT_TT"
+						down = "[GetVariableSystem.Exists('rac_use_title_format')]"
+						onclick = "[GetVariableSystem.Toggle('rac_use_title_format')]"
+					}
+
+					text_single = {
+						text = "RAC_USE_TITLE_FORMAT"
+						align = left|nobaseline
+					}
+				}
+
 				hbox = {
 					margin = { 0 10 }
 					spacing = 50
@@ -128,8 +146,8 @@
 
                             # MODIFICATION: Bypass C++ Check
                             # 1. Execute the rename command using the Country Tag and the text Variable
-                            # And set rac_custom_name_set, now only using the name without prefixes.
-                            onclick = "[ExecuteConsoleCommand( Concatenate( 'effect c:', Concatenate( RenameDialog.GetCountry.GetTag, Concatenate( ' = { change_country_name = \"', Concatenate( GetVariableSystem.Get('renaming_new_name'), '\" set_variable = rac_custom_name_set }' ) ) ) ) )]"
+                            # rac_custom_name_set disables title formatting in country_name_construction.
+                            onclick = "[ExecuteConsoleCommand( Concatenate( 'effect c:', Concatenate( RenameDialog.GetCountry.GetTag, Concatenate( ' = { change_country_name = \"', Concatenate( GetVariableSystem.Get('renaming_new_name'), Select_CString( GetVariableSystem.Exists('rac_use_title_format'), '\" remove_variable = rac_custom_name_set }', '\" set_variable = rac_custom_name_set }' ) ) ) ) ) )]"
                             # 2. Close the window
                             onclick = "[DialogConfig.OnAccept]"
 

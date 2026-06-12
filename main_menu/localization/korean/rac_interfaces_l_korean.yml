@@ -1,2 +1,4 @@
 ﻿l_korean:
  CHANGE_NAME_SUBTITLE: "국가 이름 변경"
+ RAC_USE_TITLE_FORMAT: "국가 칭호 표시"
+ RAC_USE_TITLE_FORMAT_TT: "새 이름이 국가의 통상적인 작위명과 함께 표시됩니다(예: '갈리아' 대신 '갈리아 왕국'). 체크를 해제하면 입력한 이름이 그대로 표시됩니다."

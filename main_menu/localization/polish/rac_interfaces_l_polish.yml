@@ -1,2 +1,4 @@
 ﻿l_polish:
  CHANGE_NAME_SUBTITLE: "Zmień nazwę kraju"
+ RAC_USE_TITLE_FORMAT: "Pokaż tytuł państwa"
+ RAC_USE_TITLE_FORMAT_TT: "Nowa nazwa jest wyświetlana wraz ze standardowym tytułem państwa, na przykład „Królestwo Galii” zamiast „Galia”. Gdy opcja nie jest zaznaczona, nazwa pojawia się dokładnie w takiej formie, w jakiej została wpisana."
