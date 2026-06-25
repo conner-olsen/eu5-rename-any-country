@@ -11,7 +11,8 @@
     "Diplomacy",
     "User Interface",
     "Gameplay",
-    "Map"
+    "Map",
+		"1.3"
   ],
   "relationships": [],
   "game_custom_data": {}
