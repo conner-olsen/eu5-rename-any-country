@@ -3,29 +3,29 @@ Renombrar Cualquier País / Rename Any Country
 ===WORKSHOP_DESCRIPTION===
 [i]You are on the DeepL-Generated Spanish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
-[h1]Descripción general:[/h1]
-Permite renombrar cualquier país (incluso el tuyo).
+[h1]Resumen:[/h1]
+Permite renombrar cualquier país (incluso a ti mismo).
 
 [h1]Características:[/h1]
 [olist]
- [*][b]Renombrar cualquier país:[/b] Renombra cualquier país, incluido el tuyo, a través del menú contextual al hacer clic derecho.
- [*][b]Título de país opcional:[/b] Marca la casilla "Mostrar título del país" en el diálogo de cambio de nombre para mantener el formato de título normal del país en el nuevo nombre, por ejemplo "Reino de Galia" en lugar de solo "Galia". Déjala desmarcada para mostrar el nombre exactamente como se escribió.
+ [*][b]Renombrar cualquier país:[/b] Renombra cualquier país, incluido el tuyo, a través del menú contextual del clic derecho.
+ [*][b]Título de país opcional:[/b] Marca la casilla "Mostrar título del país" en el cuadro de diálogo de renombrado para mantener el formato de título normal del país en el nuevo nombre; por ejemplo, "Reino de Galia" en lugar de solo "Galia". Déjala desmarcada para mostrar el nombre exactamente como se escribió.
 [/olist]
 
 [h1]Nota:[/h1]
 [olist]
- [*] Es posible que tengas que esperar un par de meses para ver los nombres actualizados reflejados en el mapa. Guardar y volver a cargar puede acelerar esto.
- [*] El mod no funciona actualmente en multijugador. Todavía no he encontrado una buena solución. Hay una forma posible que es bastante terrible de hacer, pero si alguien conoce una solución o quiere implementar mi disparatada idea, contáctame y te añadiré también a la página del mod.
+ [*] Es posible que tengas que esperar un par de meses para ver los nombres actualizados reflejados en el mapa. Guardar y volver a cargar la partida puede acelerar este proceso.
+ [*] Actualmente, el mod no funciona en multijugador. Todavía no he encontrado una buena solución alternativa. Hay una forma posible que es bastante tediosa de realizar, pero si alguien conoce una solución o quiere implementar mi descabellada idea, contacta conmigo y te añadiré también a la página del mod.
 [/olist]
 
 [h1]Localizaciones nativas:[/h1]
 [list]
- [*][b]Inglés:[/b] Primario
+ [*][b]Inglés:[/b] Principal
  [*][b]Polaco / Polski:[/b] Gracias a @kacpi_tv.
- [*][b]Chino (中文):[/b] Disponible en el [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod de traducción al chino César (Caesar Chinese Translation)[/url].
+ [*][b]Chino (中文):[/b] Disponible en el [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod 凯撒汉化 (Caesar Chinese Translation)[/url].
 [/list]
 
-[h1]Localizaciones traducidas por DeepL:[/h1]
+[h1]Localizaciones traducidas con DeepL:[/h1]
 [list]
  [*][b]Francés / Français[/b]
  [*][b]Alemán / Deutsch[/b]
@@ -42,10 +42,10 @@ Consulta las [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3
 
 [h1]Compatibilidad:[/h1]
 [list]
- [*]No es compatible con Ironman.
+ [*]Compatible con logros.
  [*]Totalmente compatible con partidas guardadas.
- [*]Debería funcionar con cualquier mod. (Si estás usando mi mod Improved Subject Management, cárgalo antes/por encima de Rename Any Country; de lo contrario, solo podrás renombrar sujetos).
- [*]Podría añadir parches de compatibilidad bajo petición.
+ [*]Debería funcionar con cualquier mod. (Si usas mi mod Improved Subject Management, cárgalo antes/encima de Rename Any Country; de lo contrario, solo podrás renombrar sujetos).
+ [*]Puedo añadir parches de compatibilidad bajo petición.
  [*]El mod [b]no[/b] funcionará en partidas ironman o multijugador.
 [/list]
 

@@ -4,18 +4,18 @@ Herhangi Bir Ülkeyi Yeniden Adlandır / Rename Any Country
 [i]You are on the DeepL-Generated Turkish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Genel Bakış:[/h1]
-Herhangi bir ülkeyi (kendiniz dahil) yeniden adlandırmanıza olanak tanır.
+Allows you to rename any country (even yourself).
 
 [h1]Özellikler:[/h1]
 [olist]
- [*][b]Herhangi bir ülkeyi yeniden adlandırın:[/b] Kendi ülkeniz de dahil olmak üzere herhangi bir ülkeyi sağ tık bağlam menüsü aracılığıyla yeniden adlandırın.
- [*][b]İsteğe bağlı ülke unvanı:[/b] Yeni isimde ülkenin normal unvan biçimlendirmesini korumak için (örneğin sadece "Gaul" yerine "Kingdom of Gaul") yeniden adlandırma penceresindeki "Show country title" kutucuğunu işaretleyin. İsmin tam olarak yazıldığı gibi görünmesi için kutucuğu boş bırakın.
+ [*][b]Herhangi bir ülkeyi yeniden adlandırın:[/b] Sağ tık bağlam menüsü aracılığıyla kendi ülkeniz de dahil olmak üzere herhangi bir ülkeyi yeniden adlandırın.
+ [*][b]İsteğe bağlı ülke unvanı:[/b] Ülkenin normal unvan biçimlendirmesini yeni isimde korumak için yeniden adlandırma penceresindeki "Show country title" kutucuğunu işaretleyin; örneğin sadece "Gaul" yerine "Kingdom of Gaul" gibi. İsmin tam olarak yazıldığı gibi görünmesi için kutucuğu boş bırakın.
 [/olist]
 
 [h1]Not:[/h1]
 [olist]
- [*] Güncellenen isimlerin haritaya yansıdığını görmek için birkaç ay beklemeniz gerekebilir. Kaydedip tekrar yüklemek bunu hızlandırabilir.
- [*] Mod şu anda çok oyunculu modda çalışmamaktadır. Henüz iyi bir çözüm yolu bulamadım. Yapması oldukça zahmetli bir yol mevcut, ancak bir çözüm yolu bilen veya benim çılgın çözümümü uygulamak isteyen biri olursa bana ulaşsın; sizi de mod sayfasına ekleyeyim.
+ [*] Güncellenen isimlerin haritaya yansıdığını görmek için birkaç ay beklemeniz gerekebilir. Kaydetmek ve tekrar yüklemek bunu hızlandırabilir.
+ [*] Mod şu anda çok oyunculu (multiplayer) modda çalışmamaktadır. Henüz iyi bir çözüm yolu bulamadım. Uygulaması oldukça kötü olan olası bir yöntem var, ancak bir çözüm yolu bilen veya benim çılgın çözümümü uygulamak isteyen biri varsa, bana ulaşın; sizi de mod sayfasına ekleyeyim.
 [/olist]
 
 [h1]Yerel Çeviriler:[/h1]
@@ -42,14 +42,14 @@ Herhangi bir ülkeyi (kendiniz dahil) yeniden adlandırmanıza olanak tanır.
 
 [h1]Uyumluluk:[/h1]
 [list]
- [*]Ironman uyumlu değildir.
- [*]Kayıtlı oyunlarla tam uyumludur.
- [*]Herhangi bir modla çalışmalıdır. (Eğer Improved Subject Management modumu kullanıyorsanız, onu Rename Any Country modundan önce/üstte yükleyin; aksi takdirde sadece vasalları yeniden adlandırabilirsiniz.)
+ [*]Başarım (Achievement) Uyumlu.
+ [*]Kayıtlı oyunlarla (Save game) tam uyumludur.
+ [*]Herhangi bir modla çalışmalıdır. (Eğer Improved Subject Management modumu kullanıyorsanız, onu Rename Any Country modundan önce/üstüne yükleyin; aksi takdirde sadece tabi devletleri yeniden adlandırabilirsiniz.)
  [*]İstek üzerine uyumluluk yamaları ekleyebilirim.
  [*]Mod, ironman veya çok oyunculu oyunlarda [b]çalışmayacaktır[/b].
 [/list]
 
-Yorumlar bölümüne ek olarak, [url=https://discord.gg/zeQ6x9wrPq]EU5 Topluluğu discord sunucusunun #utility-mods kanalında[/url] @arealconner kullanıcısını etiketleyerek soru sorabilir, hata bildirebilir veya öneride bulunabilirsiniz. Bu modun veya diğer modlarımdan birinin geliştirilmesine katılmak isterseniz, beni Discord'da @arealconner üzerinden ekleyebilir veya etiketleyebilirsiniz. Tüm katkılara açığım.
+Yorumlar bölümüne ek olarak, [url=https://discord.gg/zeQ6x9wrPq]EU5 Topluluğu discord sunucusundaki #utility-mods kanalı[/url] üzerinden @arealconner kullanıcısını etiketleyerek soru sorabilir, hata bildirebilir veya öneride bulunabilirsiniz. Ve eğer bu modun veya diğer modlarımdan birinin geliştirilmesine katılmakla ilgileniyorsanız, Discord üzerinden @arealconner kullanıcı adıyla bana ulaşabilir veya ekleyebilirsiniz. Tüm katkılara açığım.
 
-Modun kaynak ve geliştirme sürümleri [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] üzerinde mevcuttur.
+Modun kaynak ve geliştirme sürümlerine [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] üzerinden erişilebilir.
 

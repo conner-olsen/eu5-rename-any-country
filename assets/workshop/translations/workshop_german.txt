@@ -8,20 +8,20 @@ Ermöglicht es dir, jedes beliebige Land umzubenennen (sogar dein eigenes).
 
 [h1]Features:[/h1]
 [olist]
- [*][b]Jedes Land umbenennen:[/b] Benenne jedes Land, einschließlich deines eigenen, über das Rechtsklick-Kontextmenü um.
- [*][b]Optionaler Ländertitel:[/b] Aktiviere das Kontrollkästchen "Ländertitel anzeigen" im Umbenennungsdialog, um die normale Titelformatierung des Landes für den neuen Namen beizubehalten, zum Beispiel "Königreich Gallien" anstatt nur "Gallien". Deaktiviere es, um den Namen genau so anzuzeigen, wie er eingegeben wurde.
+ [*][b]Benenne jedes Land um:[/b] Benenne jedes Land, einschließlich deines eigenen, über das Rechtsklick-Kontextmenü um.
+ [*][b]Optionaler Landestitel:[/b] Aktiviere das Kontrollkästchen „Landestitel anzeigen“ im Umbenennungsdialog, um die normale Titelformatierung des Landes für den neuen Namen beizubehalten, zum Beispiel „Königreich Gallien“ statt nur „Gallien“. Deaktiviere es, um den Namen exakt so anzuzeigen, wie er eingegeben wurde.
 [/olist]
 
 [h1]Hinweis:[/h1]
 [olist]
- [*] Es kann ein paar Monate dauern, bis die aktualisierten Namen auf der Karte angezeigt werden. Speichern und neu laden kann dies beschleunigen.
- [*] Die Mod funktioniert derzeit nicht im Mehrspielermodus. Ich habe noch keinen guten Workaround gefunden. Es gäbe einen möglichen Weg, der jedoch ziemlich schrecklich umzusetzen ist, aber falls jemand einen Workaround kennt oder meine verrückte Lösung implementieren möchte, meldet euch und ich werde euch ebenfalls zur Mod-Seite hinzufügen.
+ [*] Du musst möglicherweise ein paar Monate warten, bis die aktualisierten Namen auf der Karte übernommen werden. Speichern und neu laden kann dies beschleunigen.
+ [*] Die Mod funktioniert derzeit nicht im Mehrspielermodus. Ich habe noch keine gute Lösung dafür gefunden. Es gäbe einen möglichen Weg, der jedoch ziemlich schrecklich umzusetzen ist, aber falls jemand eine Lösung kennt oder meine verrückte Idee implementieren möchte, melde dich bei mir und ich werde dich ebenfalls auf der Mod-Seite hinzufügen.
 [/olist]
 
 [h1]Native Lokalisierungen:[/h1]
 [list]
  [*][b]Englisch:[/b] Primär
- [*][b]Polnisch / Polski:[/b] Danke an @kacpi_tv.
+ [*][b]Polnisch / Polski:[/b] Dank an @kacpi_tv.
  [*][b]Chinesisch (中文):[/b] Verfügbar in der [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) Mod[/url].
 [/list]
 
@@ -38,18 +38,18 @@ Ermöglicht es dir, jedes beliebige Land umzubenennen (sogar dein eigenes).
 [/list]
 
 [h1]Änderungsprotokoll:[/h1]
-Siehe die [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Änderungshinweise auf der Workshop-Seite[/url].
+Siehe die [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Change Notes auf der Workshop-Seite[/url].
 
 [h1]Kompatibilität:[/h1]
 [list]
- [*]Nicht Ironman-kompatibel.
+ [*]Achievement-kompatibel.
  [*]Vollständig spielstandkompatibel.
- [*]Sollte mit jeder Mod funktionieren. (Falls du meine "Improved Subject Management"-Mod verwendest, lade sie vor/oberhalb von "Rename Any Country"; andernfalls wirst du nur Untertanen umbenennen können.)
- [*]Auf Anfrage füge ich eventuell Kompatitäts-Patches hinzu.
- [*]Die Mod wird [b]nicht[/b] in Ironman- oder Mehrspieler-Partien funktionieren.
+ [*]Sollte mit jeder Mod funktionieren. (Falls du meine Mod „Improved Subject Management“ verwendest, lade sie vor/oberhalb von „Rename Any Country“; andernfalls wirst du nur Untertanen umbenennen können.)
+ [*]Ich werde auf Anfrage eventuell Kompatibilitäts-Patches hinzufügen.
+ [*]Die Mod funktioniert [b]nicht[/b] in Ironman- oder Mehrspieler-Partien.
 [/list]
 
-Zusätzlich zum Kommentarbereich kannst du Fragen stellen, Fehler melden oder Vorschläge machen, indem du @arealconner im [url=https://discord.gg/zeQ6x9wrPq]#utility-mods Kanal des EU5 Community Discord-Servers[/url] pingst. Und wenn du daran interessiert bist, an der Entwicklung dieser oder einer meiner anderen Mods mitzuwirken, kannst du mich auf Discord unter @arealconner pingen oder hinzufügen. Alle Beiträge sind willkommen.
+Zusätzlich zum Kommentarbereich kannst du auch Fragen stellen, Bugs melden oder Vorschläge machen, indem du @arealconner im [url=https://discord.gg/zeQ6x9wrPq]#utility-mods Channel des EU5 Community Discord-Servers[/url] pingst. Und falls du daran interessiert bist, an der Entwicklung dieser oder einer meiner anderen Mods mitzuwirken, kannst du mich auf Discord unter @arealconner pingen oder hinzufügen. Alle Beiträge sind willkommen.
 
-Die Quell- und Entwicklerversionen der Mod sind auf [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] verfügbar.
+Der Quellcode und die Entwicklerversionen der Mod sind auf [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] verfügbar.
 

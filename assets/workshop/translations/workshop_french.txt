@@ -3,53 +3,53 @@ Renommer n'importe quel pays / Rename Any Country
 ===WORKSHOP_DESCRIPTION===
 [i]You are on the DeepL-Generated French Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
-[h1]Présentation :[/h1]
+[h1]Aperçu :[/h1]
 Permet de renommer n'importe quel pays (même le vôtre).
 
 [h1]Caractéristiques :[/h1]
 [olist]
  [*][b]Renommer n'importe quel pays :[/b] Renommez n'importe quel pays, y compris le vôtre, via le menu contextuel du clic droit.
- [*][b]Titre de pays optionnel :[/b] Cochez la case « Afficher le titre du pays » dans la boîte de dialogue de renommage pour conserver le formatage habituel du titre du pays sur le nouveau nom, par exemple « Royaume de Gaule » au lieu de simplement « Gaule ». Laissez-la décochée pour afficher le nom exactement tel qu'il a été saisi.
+ [*][b]Titre de pays optionnel :[/b] Cochez la case « Afficher le titre du pays » dans la boîte de dialogue de renommage pour conserver le formatage normal du titre du pays sur le nouveau nom, par exemple « Royaume de Gaule » au lieu de simplement « Gaule ». Laissez-la décochée pour afficher le nom exactement tel qu'il a été saisi.
 [/olist]
 
-[h1]Note :[/h1]
+[h1]Remarque :[/h1]
 [olist]
  [*] Il se peut que vous deviez attendre quelques mois pour que les noms mis à jour apparaissent sur la carte. Sauvegarder et recharger peut accélérer ce processus.
- [*] Le mod ne fonctionne actuellement pas en multijoueur. Je n'ai pas encore trouvé de solution satisfaisante. Il existe une méthode possible qui est assez pénible à mettre en œuvre, mais si quelqu'un connaît une solution de contournement ou souhaite implémenter ma solution farfelue, contactez-moi et je vous ajouterai également à la page du mod.
+ [*] Le mod ne fonctionne pas actuellement en multijoueur. Je n'ai pas encore trouvé de solution satisfaisante. Il existe un moyen possible qui est assez terrible à mettre en œuvre, mais si quelqu'un connaît une solution de contournement ou souhaite implémenter ma solution farfelue, contactez-moi et je vous ajouterai également à la page du mod.
 [/olist]
 
 [h1]Localisations natives :[/h1]
 [list]
- [*][b]Anglais / English :[/b] Principal
- [*][b]Polonais / Polski :[/b] Merci à @kacpi_tv.
- [*][b]Chinois (中文) :[/b] Disponible dans le [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod 凯撒汉化 (Caesar Chinese Translation)[/url].
+ [*][b]English :[/b] Principal
+ [*][b]Polish / Polski :[/b] Merci à @kacpi_tv.
+ [*][b]Chinese (中文) :[/b] Disponible dans le [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod 凯撒汉化 (Caesar Chinese Translation)[/url].
 [/list]
 
 [h1]Localisations traduites par DeepL :[/h1]
 [list]
- [*][b]Français[/b]
- [*][b]Allemand / Deutsch[/b]
- [*][b]Japonais / 日本語[/b]
- [*][b]Coréen / 한국어[/b]
- [*][b]Portugais (Brésil) / Português (Brasil)[/b]
- [*][b]Russe / Русский[/b]
- [*][b]Espagnol / Español[/b]
- [*][b]Turc / Türkçe[/b]
+ [*][b]French / Français[/b]
+ [*][b]German / Deutsch[/b]
+ [*][b]Japanese / 日本語[/b]
+ [*][b]Korean / 한국어[/b]
+ [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
+ [*][b]Russian / Русский[/b]
+ [*][b]Spanish / Español[/b]
+ [*][b]Turkish / Türkçe[/b]
 [/list]
 
 [h1]Journal des modifications :[/h1]
-Consultez les [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Notes de mise à jour sur la page du workshop[/url].
+Consultez les [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]notes de changement sur la page du workshop[/url].
 
 [h1]Compatibilité :[/h1]
 [list]
- [*]Non compatible avec le mode Ironman.
- [*]Entièrement compatible avec les sauvegardes existantes.
- [*]Devrait fonctionner avec n'importe quel mod. (Si vous utilisez mon mod Improved Subject Management, chargez-le avant/au-dessus de Rename Any Country ; sinon, vous ne pourrez renommer que vos sujets.)
- [*]Je peux ajouter des patchs de compatibilité sur demande.
- [*]Le mod ne fonctionnera [b]pas[/b] en mode ironman ou en multijoueur.
+ [*]Compatible avec les succès (Achievements).
+ [*]Entièrement compatible avec les sauvegardes.
+ [*]Devrait fonctionner avec n'importe quel mod. (Si vous utilisez mon mod Improved Subject Management, chargez-le avant/au-dessus de Rename Any Country ; sinon, vous ne pourrez renommer que les sujets.)
+ [*]Je pourrais ajouter des patchs de compatibilité sur demande.
+ [*]Le mod ne fonctionnera [b]pas[/b] en mode Ironman ou en multijoueur.
 [/list]
 
-En plus de la section des commentaires, vous pouvez également poser des questions, signaler des bugs ou faire des suggestions en interpellant @arealconner dans le [url=https://discord.gg/zeQ6x9wrPq]salon #utility-mods du serveur Discord de la communauté EU5[/url]. Et si vous souhaitez participer au développement de ce mod ou de l'un de mes autres mods, vous pouvez me contacter ou m'ajouter sur Discord @arealconner. Toutes les contributions sont les bienvenues.
+En plus de la section des commentaires, vous pouvez également poser des questions, signaler des bugs ou faire des suggestions en mentionnant @arealconner dans le [url=https://discord.gg/zeQ6x9wrPq]canal #utility-mods du serveur Discord de la communauté EU5[/url]. Et si vous souhaitez participer au développement de ce mod ou de l'un de mes autres mods, vous pouvez m'envoyer un message ou m'ajouter sur Discord @arealconner. Toutes les contributions sont les bienvenues.
 
-Le code source et les versions de développement du mod sont disponibles sur [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
+Les versions source et de développement du mod sont disponibles sur [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
 
