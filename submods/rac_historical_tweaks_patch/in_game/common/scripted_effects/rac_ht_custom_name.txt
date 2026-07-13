@@ -1,0 +1,11 @@
+﻿# Bridges the Historical Tweaks custom-name reform to a saved variable that
+# eu5-rename-characters reads: it loads last and cannot reference the reform directly.
+rac_ht_sync_custom_name = {
+	if = {
+		limit = { has_reform = government_reform:ht_custom_name_noprefix }
+		set_variable = rac_ht_custom_name_set
+	}
+	else = {
+		remove_variable = rac_ht_custom_name_set
+	}
+}

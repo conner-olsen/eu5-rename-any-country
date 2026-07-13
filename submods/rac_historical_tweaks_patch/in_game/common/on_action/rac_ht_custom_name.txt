@@ -1,0 +1,25 @@
+﻿on_game_start = {
+	on_actions = {
+		rac_ht_custom_name_init
+	}
+}
+
+monthly_country_pulse = {
+	on_actions = {
+		rac_ht_custom_name_monthly
+	}
+}
+
+rac_ht_custom_name_init = {
+	effect = {
+		every_country = {
+			rac_ht_sync_custom_name = yes
+		}
+	}
+}
+
+rac_ht_custom_name_monthly = {
+	effect = {
+		rac_ht_sync_custom_name = yes
+	}
+}
