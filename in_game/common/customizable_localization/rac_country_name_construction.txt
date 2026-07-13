@@ -1,6 +1,7 @@
 ﻿REPLACE:country_name_construction = {
     type = country
     text = {
+        # RAC-CHANGE: rac_custom_name_set clause added; block moved to top priority.
         localization_key = country_name_construction_name
         trigger = {
             OR = {

@@ -1,6 +1,7 @@
 ﻿REPLACE:country_name_construction = {
     type = country
 	text = {
+		# RAC-CHANGE: Added block.
 		localization_key = country_name_construction_name
 		trigger = {
 			OR = {
