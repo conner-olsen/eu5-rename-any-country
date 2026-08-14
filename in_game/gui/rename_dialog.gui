@@ -147,7 +147,7 @@
                             # MODIFICATION: Bypass C++ Check
                             # 1. Execute the rename command using the Country Tag and the text Variable
                             # rac_custom_name_set disables title formatting in country_name_construction.
-                            onclick = "[ExecuteConsoleCommand( Concatenate( 'effect c:', Concatenate( RenameDialog.GetCountry.GetTag, Concatenate( ' = { change_country_name = \"', Concatenate( GetVariableSystem.Get('renaming_new_name'), Select_CString( GetVariableSystem.Exists('rac_use_title_format'), '\" remove_variable = rac_custom_name_set }', '\" set_variable = rac_custom_name_set }' ) ) ) ) ) )]"
+                            onclick = "[ExecuteConsoleCommand( Concatenate( 'effect c:', Concatenate( RenameDialog.GetCountry.GetTag, Concatenate( ' = { change_country_name = \"', Concatenate( GetVariableSystem.Get('renaming_new_name'), Concatenate( '\" change_country_adjective = \"', Concatenate( GetVariableSystem.Get('renaming_new_name'), Select_CString( GetVariableSystem.Exists('rac_use_title_format'), '\" remove_variable = rac_custom_name_set }', '\" set_variable = rac_custom_name_set }' ) ) ) ) ) ) ) )]"
                             # 2. Close the window
                             onclick = "[DialogConfig.OnAccept]"
 
