@@ -4,52 +4,54 @@ Herhangi Bir Ülkeyi Yeniden Adlandır / Rename Any Country
 [i]You are on the DeepL-Generated Turkish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Genel Bakış:[/h1]
-Allows you to rename any country (even yourself).
+Herhangi bir ülkeyi (kendiniz dahil) yeniden adlandırmanıza olanak tanır.
 
 [h1]Özellikler:[/h1]
 [olist]
- [*][b]Herhangi bir ülkeyi yeniden adlandırın:[/b] Sağ tık bağlam menüsü aracılığıyla kendi ülkeniz de dahil olmak üzere herhangi bir ülkeyi yeniden adlandırın.
- [*][b]İsteğe bağlı ülke unvanı:[/b] Ülkenin normal unvan biçimlendirmesini yeni isimde korumak için yeniden adlandırma penceresindeki "Show country title" kutucuğunu işaretleyin; örneğin sadece "Gaul" yerine "Kingdom of Gaul" gibi. İsmin tam olarak yazıldığı gibi görünmesi için kutucuğu boş bırakın.
-[/olist]
-
-[h1]Not:[/h1]
-[olist]
- [*] Güncellenen isimlerin haritaya yansıdığını görmek için birkaç ay beklemeniz gerekebilir. Kaydetmek ve tekrar yüklemek bunu hızlandırabilir.
- [*] Mod şu anda çok oyunculu (multiplayer) modda çalışmamaktadır. Henüz iyi bir çözüm yolu bulamadım. Uygulaması oldukça kötü olan olası bir yöntem var, ancak bir çözüm yolu bilen veya benim çılgın çözümümü uygulamak isteyen biri varsa, bana ulaşın; sizi de mod sayfasına ekleyeyim.
+ [*][b]Herhangi bir ülkeyi yeniden adlandırın:[/b] Sağ tık bağlam menüsü aracılığıyla, kendi ülkeniz de dahil olmak üzere herhangi bir ülkeyi yeniden adlandırın.
+ [*][b]İsteğe bağlı ülke unvanı:[/b] Ülkenin normal unvan biçimlendirmesini yeni isimde korumak için yeniden adlandırma iletişim kutusundaki "Show country title" (Ülke unvanını göster) onay kutusunu işaretleyin; örneğin sadece "Galya" yerine "Kingdom of Gaul". İsmin tam yazıldığı gibi görüntülenmesi için işareti kaldırın.
 [/olist]
 
 [h1]Yerel Çeviriler:[/h1]
 [list]
- [*][b]İngilizce:[/b] Birincil
- [*][b]Lehçe / Polski:[/b] @kacpi_tv sayesinde.
- [*][b]Çince (中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) modunda[/url] mevcuttur.
+ [*][b]English:[/b] Birincil
+ [*][b]Polish / Polski:[/b] @kacpi_tv sayesinde.
+ [*][b]Chinese (中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) modunda[/url] mevcuttur.
 [/list]
 
 [h1]DeepL ile Çevrilen Yerelleştirmeler:[/h1]
 [list]
- [*][b]Fransızca / Français[/b]
- [*][b]Almanca / Deutsch[/b]
- [*][b]Japonca / 日本語[/b]
- [*][b]Korece / 한국어[/b]
- [*][b]Portekizce (Brezilya) / Português (Brasil)[/b]
- [*][b]Rusça / Русский[/b]
- [*][b]İspanyolca / Español[/b]
- [*][b]Türkçe / Türkçe[/b]
+ [*][b]French / Français[/b]
+ [*][b]German / Deutsch[/b]
+ [*][b]Japanese / 日本語[/b]
+ [*][b]Korean / 한국어[/b]
+ [*][b]Portuguese (Brazil) / Português (Brasil)[/b]
+ [*][b]Russian / Русский[/b]
+ [*][b]Spanish / Español[/b]
+ [*][b]Turkish / Türkçe[/b]
 [/list]
 
 [h1]Değişiklik Günlüğü:[/h1]
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Atölye sayfasındaki Değişiklik Notlarına[/url] göz atın.
+Workshop sayfasındaki [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]Değişiklik Notlarına[/url] bakın.
 
 [h1]Uyumluluk:[/h1]
 [list]
- [*]Başarım (Achievement) Uyumlu.
- [*]Kayıtlı oyunlarla (Save game) tam uyumludur.
- [*]Herhangi bir modla çalışmalıdır. (Eğer Improved Subject Management modumu kullanıyorsanız, onu Rename Any Country modundan önce/üstüne yükleyin; aksi takdirde sadece tabi devletleri yeniden adlandırabilirsiniz.)
- [*]İstek üzerine uyumluluk yamaları ekleyebilirim.
- [*]Mod, ironman veya çok oyunculu oyunlarda [b]çalışmayacaktır[/b].
+ [*]Başarım (Achievement) uyumlu.
+ [*]Kayıtlı oyunlarla (save game) tamamen uyumlu.
+ [*]Herhangi bir modla çalışmalıdır. (Eğer Improved Subject Management modumu kullanıyorsanız, Rename Any Country'den önce/üstüne yükleyin; aksi takdirde sadece tabileri yeniden adlandırabilirsiniz.)
+ [*]Talep üzerine uyumluluk yamaları ekleyebilirim.
 [/list]
 
-Yorumlar bölümüne ek olarak, [url=https://discord.gg/zeQ6x9wrPq]EU5 Topluluğu discord sunucusundaki #utility-mods kanalı[/url] üzerinden @arealconner kullanıcısını etiketleyerek soru sorabilir, hata bildirebilir veya öneride bulunabilirsiniz. Ve eğer bu modun veya diğer modlarımdan birinin geliştirilmesine katılmakla ilgileniyorsanız, Discord üzerinden @arealconner kullanıcı adıyla bana ulaşabilir veya ekleyebilirsiniz. Tüm katkılara açığım.
+[quote][h1]Önemli:[/h1]
+ [list]
+  [*][b]Ironman[/b] oyunlarda [b]çalışmaz[/b].
+  [*][b]Çok oyunculu[/b] modda [b]çalışmaz[/b].
+  [*]Bazı ülkeler yeniden adlandırılamaz, örneğin [b]Çin[/b].
+  [*] Güncellenen isimlerin haritaya yansıması için birkaç ay beklemeniz gerekebilir. Kaydedip tekrar yüklemek bunu hızlandırabilir.
+ [/list]
+[/quote]
 
-Modun kaynak ve geliştirme sürümlerine [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] üzerinden erişilebilir.
+Yorumlar bölümüne ek olarak, [url=https://discord.gg/zeQ6x9wrPq]EU5 Topluluğu discord sunucusunun #utility-mods kanalında[/url] @arealconner kullanıcısını etiketleyerek her türlü soruyu sorabilir, hata bildirebilir veya öneride bulunabilirsiniz. Ve eğer bu veya diğer modlarımdan birinin geliştirilmesine katılmak isterseniz, Discord üzerinden @arealconner'ı ekleyebilir veya etiketleyebilirsiniz. Tüm katkılar memnuniyetle karşılanır.
+
+Modun kaynak ve geliştirme sürümleri [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] üzerinde mevcuttur.
 

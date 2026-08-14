@@ -4,23 +4,17 @@ Renombrar Cualquier País / Rename Any Country
 [i]You are on the DeepL-Generated Spanish Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]Resumen:[/h1]
-Permite renombrar cualquier país (incluso a ti mismo).
+Te permite renombrar cualquier país (incluso a ti mismo).
 
 [h1]Características:[/h1]
 [olist]
- [*][b]Renombrar cualquier país:[/b] Renombra cualquier país, incluido el tuyo, a través del menú contextual del clic derecho.
- [*][b]Título de país opcional:[/b] Marca la casilla "Mostrar título del país" en el cuadro de diálogo de renombrado para mantener el formato de título normal del país en el nuevo nombre; por ejemplo, "Reino de Galia" en lugar de solo "Galia". Déjala desmarcada para mostrar el nombre exactamente como se escribió.
-[/olist]
-
-[h1]Nota:[/h1]
-[olist]
- [*] Es posible que tengas que esperar un par de meses para ver los nombres actualizados reflejados en el mapa. Guardar y volver a cargar la partida puede acelerar este proceso.
- [*] Actualmente, el mod no funciona en multijugador. Todavía no he encontrado una buena solución alternativa. Hay una forma posible que es bastante tediosa de realizar, pero si alguien conoce una solución o quiere implementar mi descabellada idea, contacta conmigo y te añadiré también a la página del mod.
+ [*][b]Renombrar cualquier país:[/b] Renombra cualquier país, incluido el tuyo, mediante el menú contextual de clic derecho.
+ [*][b]Título de país opcional:[/b] Marca la casilla "Mostrar título del país" en el diálogo de renombramiento para mantener el formato de título normal del país en el nuevo nombre; por ejemplo, "Reino de la Galia" en lugar de solo "Galia". Déjala desmarcada para mostrar el nombre exactamente como se escribió.
 [/olist]
 
 [h1]Localizaciones nativas:[/h1]
 [list]
- [*][b]Inglés:[/b] Principal
+ [*][b]Inglés / English:[/b] Principal
  [*][b]Polaco / Polski:[/b] Gracias a @kacpi_tv.
  [*][b]Chino (中文):[/b] Disponible en el [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]mod 凯撒汉化 (Caesar Chinese Translation)[/url].
 [/list]
@@ -42,14 +36,22 @@ Consulta las [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3
 
 [h1]Compatibilidad:[/h1]
 [list]
- [*]Compatible con logros.
+ [*]Compatible con logros (Achievement Compatible).
  [*]Totalmente compatible con partidas guardadas.
- [*]Debería funcionar con cualquier mod. (Si usas mi mod Improved Subject Management, cárgalo antes/encima de Rename Any Country; de lo contrario, solo podrás renombrar sujetos).
+ [*]Debería funcionar con cualquier mod. (Si usas mi mod Improved Subject Management, cárgalo antes/por encima de Rename Any Country; de lo contrario, solo podrás renombrar sujetos).
  [*]Puedo añadir parches de compatibilidad bajo petición.
- [*]El mod [b]no[/b] funcionará en partidas ironman o multijugador.
 [/list]
 
-Además de la sección de comentarios, también puedes hacer cualquier pregunta, informar de errores o hacer sugerencias mencionando a @arealconner en el [url=https://discord.gg/zeQ6x9wrPq]canal #utility-mods del servidor de Discord de la comunidad de EU5[/url]. Y si estás interesado en participar en el desarrollo de este o de alguno de mis otros mods, puedes mencionarme o añadirme en Discord @arealconner. Todas las contribuciones son bienvenidas.
+[quote][h1]Importante:[/h1]
+ [list]
+  [*] [b]No[/b] funciona en partidas [b]ironman[/b].
+  [*] [b]No[/b] funciona en [b]multijugador[/b].
+  [*]Algunos países no se pueden renombrar, concretamente [b]China[/b].
+  [*] Es posible que tengas que esperar un par de meses para ver los nombres actualizados reflejados en el mapa. Guardar y volver a cargar la partida puede acelerar esto.
+ [/list]
+[/quote]
 
-Las versiones de código fuente y de desarrollo del mod están disponibles en [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
+Además de la sección de comentarios, también puedes hacer cualquier pregunta, reportar errores o hacer sugerencias mencionando a @arealconner en el [url=https://discord.gg/zeQ6x9wrPq]canal #utility-mods del servidor de Discord de la comunidad de EU5[/url]. Y si estás interesado en participar en el desarrollo de este o de alguno de mis otros mods, puedes mencionarme o añadirme en Discord @arealconner. Todas las contribuciones son bienvenidas.
+
+Las versiones de desarrollo y el código fuente del mod están disponibles en [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub.[/url]
 

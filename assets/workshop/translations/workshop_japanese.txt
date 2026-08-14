@@ -4,32 +4,26 @@
 [i]You are on the DeepL-Generated Japanese Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]概要:[/h1]
-どの国でも（自国であっても）名前を変更できるようになります。
+あらゆる国（自国を含む）の名前を変更できるようにします。
 
 [h1]機能:[/h1]
 [olist]
- [*][b]どの国でも改名可能:[/b] 右クリックのコンテキストメニューから、自国を含むあらゆる国の名前を変更できます。
- [*][b]オプションの国称号:[/b] 改名ダイアログの「Show country title」チェックボックスをオンにすると、新しい名前に国の通常の称号形式が維持されます。例えば、単なる「Gaul（ガリア）」ではなく「Kingdom of Gaul（ガリア王国）」となります。チェックを外したままにすると、入力した通りの名前が表示されます。
-[/olist]
-
-[h1]注意事項:[/h1]
-[olist]
- [*] 更新された名前がマップに反映されるまで、数ヶ月待つ必要がある場合があります。セーブしてリロードすることで、反映が早まる可能性があります。
- [*] 現在、このModはマルチプレイヤーでは動作しません。まだ適切な回避策は見つかっていません。実現可能な方法が一つありますが、かなり強引な手法です。もし回避策を知っている方や、私の風変わりな解決策を実装したいという方がいれば、ご連絡ください。このModページにも名前を追加させていただきます。
+ [*][b]あらゆる国の改名:[/b] 右クリックのコンテキストメニューから、自国を含むあらゆる国の名前を変更できます。
+ [*][b]国号の有無を選択可能:[/b] 改名ダイアログの「Show country title（国の称号を表示）」にチェックを入れると、新しい名前に通常の称号形式が保持されます。例えば、単なる「ガリア」ではなく「ガリア王国」のようになります。チェックを外すと、入力した通りの名前が表示されます。
 [/olist]
 
 [h1]ネイティブ・ローカライズ:[/h1]
 [list]
- [*][b]英語 (English):[/b] Primary
- [*][b]ポーランド語 (Polish / Polski):[/b] @kacpi_tv氏に感謝します。
- [*][b]中国語 (Chinese / 中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url]にて利用可能です。
+ [*][b]英語 (English):[/b] 基本言語
+ [*][b]ポーランド語 / Polski:[/b] @kacpi_tv 氏に感謝。
+ [*][b]中国語 (中文):[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url] にて利用可能。
 [/list]
 
 [h1]DeepL翻訳によるローカライズ:[/h1]
 [list]
  [*][b]フランス語 / Français[/b]
  [*][b]ドイツ語 / Deutsch[/b]
- [*][b]日本語 / 日本語[/b]
+ [*][b]日本語[/b]
  [*][b]韓国語 / 한국어[/b]
  [*][b]ポルトガル語（ブラジル） / Português (Brasil)[/b]
  [*][b]ロシア語 / Русский[/b]
@@ -38,18 +32,26 @@
 [/list]
 
 [h1]更新履歴:[/h1]
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]ワークショップページの「更新履歴」[/url]をご覧ください。
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]ワークショップページの更新履歴[/url]を確認してください。
 
 [h1]互換性:[/h1]
 [list]
- [*]実績対応。
+ [*]実績に対応。
  [*]セーブデータとの完全な互換性。
- [*]あらゆるModと動作するはずです。（私の「Improved Subject Management」Modを併用している場合は、「Rename Any Country」より前（上）に読み込んでください。そうしないと、従属国しか改名できなくなります。）
- [*]要望があれば、互換パッチを追加するかもしれません。
- [*]このModはアイアンマンモードやマルチプレイヤーゲームでは動作[b]しません[/b]。
+ [*]あらゆるModと動作するはずです。（私の「Improved Subject Management」Modを使用している場合は、本Modよりも先に読み込ませてください。そうしない場合、従属国のみしか名前を変更できなくなります。）
+ [*]リクエストに応じて互換パッチを追加する場合があります。
 [/list]
 
-コメント欄に加えて、[url=https://discord.gg/zeQ6x9wrPq]EU5コミュニティDiscordサーバーの#utility-modsチャンネル[/url]で@arealconnerをメンションして、質問、バグ報告、提案を行うこともできます。また、このModや他のModの開発に参加することに興味がある場合は、Discordで@arealconnerをメンションするかフレンド追加してください。あらゆる貢献を歓迎します。
+[quote][h1]重要:[/h1]
+ [list]
+  [*][b]アイアンマン[/b]モードでは動作[b]しません[/b]。
+  [*][b]マルチプレイヤー[/b]では動作[b]しません[/b]。
+  [*]一部の国（[b]中国[/b]など）は名前を変更できません。
+  [*] 更新された名前がマップに反映されるまで、ゲーム内で数ヶ月待つ必要がある場合があります。セーブしてリロードすることで、反映が早まる可能性があります。
+ [/list]
+[/quote]
 
-Modのソースコードおよび開発版は[url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url]で公開されています。
+コメント欄に加えて、[url=https://discord.gg/zeQ6x9wrPq]EU5 Community Discordサーバーの#utility-modsチャンネル[/url]で @arealconner をメンションすることで、質問、バグ報告、提案を行うことができます。また、このModや他のModの開発に興味がある方は、Discordで @arealconner をメンションするか、フレンド追加してください。あらゆる貢献を歓迎します。
+
+このModのソースおよび開発バージョンは [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] で公開されています。
 

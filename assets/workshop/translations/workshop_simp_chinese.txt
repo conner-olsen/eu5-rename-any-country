@@ -4,25 +4,19 @@
 [i]You are on the DeepL-Generated Simplified Chinese Page. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=$item-id$&l=english]Click here for the Native English Page.[/url][/i]
 
 [h1]概览：[/h1]
-允许你重命名任何国家（甚至是玩家自己）。
+允许您重命名任何国家（包括你自己）。
 
-[h1]特色内容：[/h1]
+[h1]功能特点：[/h1]
 [olist]
- [*][b]重命名任何国家：[/b]通过右键菜单重命名任何国家，包括你自己的国家。
- [*][b]可选的国家头衔：[/b]在重命名对话框中勾选“显示国家头衔”复选框，可以在新名称上保留该国正常的头衔格式。例如，显示为“高卢王国”而非单纯的“高卢”。取消勾选则按输入内容完全一致地显示。
-[/olist]
-
-[h1]注意：[/h1]
-[olist]
- [*] 你可能需要等待几个月的时间才能在地图上看到更新后的名称。保存并重新加载存档可能会加快这一过程。
- [*] 该模组目前不支持多人游戏。我还没有找到理想的解决办法。虽然有一个可能的方案，但实现起来非常糟糕。如果有人知道解决方法或愿意尝试实现我的那个古怪方案，请联系我，我会把你加入模组贡献者名单。
+ [*][b]重命名任何国家：[/b] 通过右键菜单重命名任何国家，包括你自己。
+ [*][b]可选国家头衔：[/b] 在重命名对话框中勾选“显示国家头衔”复选框，以在重命名后保留国家正常的头衔格式，例如“高卢王国”而不仅仅是“高卢”。取消勾选则会完全按照您输入的名称显示。
 [/olist]
 
 [h1]原生本地化：[/h1]
 [list]
- [*][b]英语 (English)：[/b]主语言
- [*][b]波兰语 / Polski：[/b]感谢 @kacpi_tv。
- [*][b]中文 (Chinese)：[/b]可在 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) 模组[/url]中获取。
+ [*][b]英语：[/b] 主要语言
+ [*][b]波兰语 / Polski：[/b] 感谢 @kacpi_tv。
+ [*][b]中文：[/b] 已集成至 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3599706198]凯撒汉化 (Caesar Chinese Translation) mod[/url]。
 [/list]
 
 [h1]DeepL 翻译本地化：[/h1]
@@ -31,25 +25,33 @@
  [*][b]德语 / Deutsch[/b]
  [*][b]日语 / 日本語[/b]
  [*][b]韩语 / 한국어[/b]
- [*][b]巴西葡萄牙语 / Português (Brasil)[/b]
+ [*][b]葡萄牙语（巴西） / Português (Brasil)[/b]
  [*][b]俄语 / Русский[/b]
  [*][b]西班牙语 / Español[/b]
  [*][b]土耳其语 / Türkçe[/b]
 [/list]
 
 [h1]更新日志：[/h1]
-请参阅 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]创意工坊页面上的更新记录[/url]。
+请参阅 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3639581385]创意工坊页面上的更新说明[/url]。
 
 [h1]兼容性：[/h1]
 [list]
- [*]兼容成就。
+ [*]成就兼容。
  [*]完全兼容存档。
- [*]应该兼容任何模组。（如果你正在使用我的 Improved Subject Management 模组，请将其加载顺序排在 Rename Any Country 之前/上方；否则，你将只能重命名附庸国。）
- [*]我可以根据需求添加兼容性补丁。
- [*]该模组[b]无法[/b]在铁人模式或多人游戏中使用。
+ [*]应能与任何 mod 兼容。（如果您正在使用我的 Improved Subject Management mod，请将其加载在 Rename Any Country 之前/上方；否则，您将只能重命名附属国。）
+ [*]我可能会根据需求添加兼容性补丁。
 [/list]
 
-除了评论区外，你也可以在 [url=https://discord.gg/zeQ6x9wrPq]EU5 社区 Discord 服务器的 #utility-mods 频道[/url]中通过 @arealconner 提出任何问题、反馈错误或提供建议。如果你有兴趣参与本模组或其他模组的开发，可以在 Discord 上 @ 或添加我为好友（@arealconner）。欢迎任何形式的贡献。
+[quote][h1]重要事项：[/h1]
+ [list]
+  [*][b]不[/b]适用于[b]铁人[/b]模式。
+  [*][b]不[/b]适用于[b]多人游戏[/b]。
+  [*]部分国家无法重命名，即[b]中国[/b]。
+  [*]您可能需要等待几个月（游戏内时间）才能在地图上看到更新后的名称。保存并重新加载存档可能会加快这一过程。
+ [/list]
+[/quote]
 
-该模组的源码和开发版本可在 [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] 上找到。
+除了评论区，您还可以通过在 [url=https://discord.gg/zeQ6x9wrPq]EU5 社区 Discord 服务器的 #utility-mods 频道[/url] @arealconner 来提问、报告 Bug 或提出建议。如果您有兴趣参与本 mod 或我其他 mod 的开发，可以通过 Discord @arealconner 联系或添加我。欢迎各种形式的贡献。
+
+本 mod 的源代码和开发版本可在 [url=https://github.com/conner-olsen/eu5-rename-any-country]GitHub[/url] 上获取。
 
