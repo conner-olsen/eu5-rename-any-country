@@ -1,0 +1,2 @@
+﻿# Displaces Rename Characters' own country_name_construction so only one definition of the entry
+# is live. Its branches are carried in rac_country_name_construction.txt beside this file.

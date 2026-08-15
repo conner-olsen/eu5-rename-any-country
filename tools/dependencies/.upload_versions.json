@@ -2,6 +2,7 @@
   "version": 1,
   "entries": {
     "main:release": "1.2.2",
-    "submod:rac.ht.comp": "1.1.2"
+    "submod:rac.ht.comp": "1.1.2",
+    "submod:rac.cnd.comp": "1.0.0"
   }
 }

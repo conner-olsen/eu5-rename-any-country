@@ -1,0 +1,6 @@
+﻿# Gets rid of "Variable 'X' is used but is never set." for the two markers the merged name
+# construction reads. Both are set by other mods, which are not present in every playset.
+rac_cnd_dummy_effect = {
+    set_variable = rac_ht_custom_name_set
+    set_variable = is_custom_nation
+}

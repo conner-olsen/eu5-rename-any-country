@@ -33,3 +33,7 @@ beta_game_directory = "" # Path to the EU5 closed-beta game directory (Project C
 [[submods]]
 mod_id = "rac.ht.comp"
 workshop_id = 3667544008
+
+[[submods]]
+mod_id = "rac.cnd.comp"
+workshop_id = 3783557477

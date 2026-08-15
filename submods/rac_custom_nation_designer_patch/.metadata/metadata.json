@@ -1,0 +1,42 @@
+﻿{
+	"name": "Rename Any Country + Custom Nation Designer Compatibility Patch",
+	"id": "rac.cnd.comp",
+	"version": "1.0.0",
+	"game_id": "eu5",
+	"supported_game_version": "1.3.*",
+	"short_description": "Allows renaming any country (including yourself).",
+	"tags": [
+		"Fixes"
+	],
+	"relationships": [
+		{
+			"rel_type": "dependency",
+			"id": "rename.any.country",
+			"display_name": "Rename Any Country",
+			"resource_type": "mod",
+			"version": "*"
+		},
+		{
+			"rel_type": "dependency",
+			"id": "custom_nation_designer_revived",
+			"display_name": "Custom Nation Designer Revived",
+			"resource_type": "mod",
+			"version": "*"
+		},
+		{
+			"rel_type": "dependency",
+			"id": "rac.ht.comp",
+			"display_name": "Rename Any Country + Historical Tweaks Compatibility Patch",
+			"resource_type": "mod",
+			"version": "*"
+		},
+		{
+			"rel_type": "dependency",
+			"id": "rename.characters",
+			"display_name": "Rename Characters & Dynasties",
+			"resource_type": "mod",
+			"version": "*"
+		}
+	],
+	"game_custom_data": {}
+}
